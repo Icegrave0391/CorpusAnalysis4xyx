@@ -1,0 +1,266 @@
+为什么新冠疫情始于中国？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">新冠肺炎有名称了：<a href="https://www.nytimes.com/2020/02/11/world/asia/coronavirus-china.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage">COVID-19</a>。命名费了好一番功夫。新冠病毒出现以后，基因测序在两周内完成，但之后好几周的时间里，对于这种病毒和它引发的疾病，我们都不知该如何称呼。</div>
+<div class="article-paragraph">在<a href="https://www.scmp.com/news/hong-kong/health-environment/article/3046634/wuhan-pneumonia-hong-kong-widens-net-suspected" rel="noopener noreferrer" target="_blank">一些地方</a>，这种疾病一度被称为“<a href="https://www.vox.com/2020/1/9/21058069/wuhan-pneumonia-outbreak" rel="noopener noreferrer" target="_blank">武汉肺炎</a>”。武汉位于中国中部，首批感染者来自这里。但给COVID-19命名的世界卫生组织的原则是，不鼓励以地名或人名来命名疾病，其中一个原因是防止“<a href="https://www.who.int/mediacentre/news/notes/2015/naming-new-diseases/en/" rel="noopener noreferrer" target="_blank">对特定群体污名化而造成无意的负面影响</a>”。</div>
+<div class="article-paragraph">确实如此。1月29日，鲁伯特·默多克(Rupert Murdoch)麾下的一份澳大利亚小报头版出现一副红色口罩，口罩上写着“<a href="https://www.newsagencyblog.com.au/2020/02/01/herald-sun-front-page-coronavirus-headline-is-offensive/" rel="noopener noreferrer" target="_blank">中国病毒</a>混乱<i>”</i>：其中混乱(Pandemonium)拼做<span>“<i><a href="https://www.newsagencyblog.com.au/2020/02/01/herald-sun-front-page-coronavirus-headline-is-offensive/" rel="noopener noreferrer" target="_blank">Panda</a></i><a href="https://www.newsagencyblog.com.au/2020/02/01/herald-sun-front-page-coronavirus-headline-is-offensive/" rel="noopener noreferrer" target="_blank">monium</a>”</span>，“Panda”还显示为斜体来强调，错拼应是有意为之。墨尔本一位中国留学生在另一张报纸写评论反对：“<a href="https://www.smh.com.au/national/this-virus-is-not-chinese-don-t-racialise-it-because-we-all-have-to-be-prepared-20200130-p53w0j.html" rel="noopener noreferrer" target="_blank">这不是‘中国’病毒</a>。”</div>
+<div class="article-paragraph">对，即使病毒源头最终追溯到中国的某个山洞里，这也不是中国病毒，它所导致的疾病也不是中国病。</div>
+<div class="article-paragraph">另一方面，传染病的暴发则常常具有社会性与政治性——正如尽管干旱是自然灾害，其<a href="https://www.nytimes.com/2003/03/01/arts/does-democracy-avert-famine.html">饥荒则通常是人为的</a>。</div>
+<div class="article-paragraph">就当下的疫情来说——单一病毒感染单一哺乳动物这样的自然事件，如何迅速演变为全球卫生危机——有两个文化因素能有助于我们理解这一过程。而这个论证中，或将引来争议的焦点在于：这两个文化因素尽管不是中国独有，但是从本质上而言很“中国”。</div>
+<div class="article-paragraph">第一个因素是中国由来已久对传递消息者的惩罚。</div>
+<div class="article-paragraph">1月初，武汉有八名医生因在社交媒体上提醒人们病毒暴发的风险，而被警察以传播谣言的指控<a href="https://www.thedailybeast.com/china-arrested-doctors-who-warned-about-coronavirus-outbreak-now-death-tolls-rising-stocks-are-plunging" rel="noopener noreferrer" target="_blank">扣留</a>。其中有一人最近因感染COVID-19<a href="https://cn.nytimes.com/china/20200208/li-wenliang-china-coronavirus/">去世</a>。</div>
+<div class="article-paragraph">在由另一种冠状病毒引起的SARS疫情期间，也发生了类似的情形。2002年末，SARS疫情在中国南方暴发，地方当局<a href="https://www.businessinsider.com/china-wuhan-coronavirus-compared-to-sars-2020-1" rel="noopener noreferrer" target="_blank">掩盖</a>了一个多月，而<a href="https://www.nytimes.com/2004/07/21/world/china-releases-the-sars-whistle-blower.html">最先拉响警报的外科医生</a>后来被军事监禁45天。</div>
+<div class="article-paragraph">2008年，中国某些大型奶粉品牌被发现在其产品中添加三聚氰胺，<a href="https://www.forbes.com/sites/yanzhonghuang/2014/07/16/the-2008-milk-scandal-revisited/#4997ac44105b" rel="noopener noreferrer" target="_blank">毒奶粉</a>丑闻曝光。（六名婴儿死亡；5.4万名婴儿曾入院治疗。）四年后，据信首个曝露该丑闻的吹哨人被人捅死，且<a href="https://www.scmp.com/news/china/article/1089540/mystery-surrounds-death-milk-whistleblower-jiang-weisuo" rel="noopener noreferrer" target="_blank">情形诡异</a>。</div>
+<div class="article-paragraph">这些都是近年来的案例，但这并不意味着这仅仅是中国共产党的问题：惩罚带来令人难堪的真相的信使，这样的惯例至少可以追溯至公元前六世纪的孔子时代。</div>
+<div class="article-paragraph">孔圣人援引更加古老的《诗经》，从中汲取了“明哲保身”的原则。《诗经》是一本诗歌选集，作品来自公元前10世纪或更早。“<a href="https://ctext.org/book-of-poetry/zheng-min/zh" rel="noopener noreferrer" target="_blank">明哲保身</a>”的原则或许无伤大雅，但如果考虑到孔子爱徒子路（即仲由）的命运，就恐非如此了。子路违背圣人的训规，在王侯的权力争夺中反对篡权者，引来杀身之祸而受醢刑、剁为肉糜。（孔子“遂命覆醢”，据说从此拒食肉糜。）</div>
+<div class="article-paragraph">三世纪，在哲学家李康《运命论》一文中，这条警言染上了稍许文学色彩和悲观的说教意味：“<a href="https://ctext.org/book-of-poetry/zheng-min/zh" rel="noopener noreferrer" target="_blank">木秀于林，风必摧之</a>”。这句话最终被人们更为熟知的现代谚语“枪打出头鸟”所代替。</div>
+<div class="article-paragraph">固然，中国的统治者偶尔也向臣民征集实话谏言——但只限于某一类或某一时段。毛泽东在1956年末、1957年初的“百花齐放”或“<a href="https://pedia.cloud.edu.tw/Entry/Detail/?title=大鳴大放運動" rel="noopener noreferrer" target="_blank">大鸣大放</a>”运动中，号召人们自由地提出事实和批评意见。几个月后，<a href="http://www.ejinsight.com/20170609-the-1957-anti-rightist-movement-a-warning-from-history/" rel="noopener noreferrer" target="_blank">反右运动</a>来了——运动中，成千上百之前发表言论的人被关进监狱、下放或遭受多年迫害，工作家庭尽毁。</div>
+<div class="article-paragraph">惩罚说真话的人，是两千年来中国统治精英维持稳定的标准手段和做法。它不是共产党统治下的现代中国的发明——尽管共产党一如既往地将它发挥到极致。而现在，堵住揭发者的嘴助长了致命疾病<span>COVID-19的传播，它感染了约<a href="https://www.chp.gov.hk/files/pdf/statistics_of_the_cases_novel_coronavirus_infection_en.pdf" rel="noopener noreferrer" target="_blank">75000人</a>。</span></div>
+<div class="article-paragraph"><span>疫情背后的第二个文化因素，是对于某些食物功效的传统中国信仰。这些信仰导致了一些有害的习俗，尤其是中国饮食中的“<a href="http://blog.tutorming.com/expats/chinese-winter-tonics-cuisine-meets-medicine" rel="noopener noreferrer" target="_blank">进补</a>”文化。某些进补的做法限于民间或极少的人群。但即使对于不进补的人群来说，这一观念的影响也是普遍的。</span></div>
+<div class="article-paragraph">这种整体性医学理论的出发点是食疗胜于药疗。当身体的血和能量不足时，疾病就趁机而入。这里的血和能量并非生理和物理中的概念，而是一个神秘的版本。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上个月，中国中部广德市，警察从一家涉嫌走私野味的店里查获一批物品。" data-src="https://static01.nyt.com/images/2020/02/19/opinion/19Lian/merlin_167758530_5607ef52-fe1e-4509-b9cc-3d46e2cd7bce-master1050.jpg" src="https://static01.nyt.com/images/2020/02/19/opinion/19Lian/merlin_167758530_5607ef52-fe1e-4509-b9cc-3d46e2cd7bce-master1050.jpg"/></div><figcaption><span>上个月，中国中部广德市，警察从一家涉嫌走私野味的店里查获一批物品。</span> <cite>Anti-Poaching Special Squad, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">对男人来说，最重要的是补充能量，这关系到生殖和性能力；而女人则需要补血，以改善外貌和生育能力。野生的稀有植物和动物被认为是最滋补的，尤其是在新鲜或生的时候吃。冬季据说是身体最需要进补的时候。（这能否有助于说明为什么SARS和当下的疫情都在冬季暴发呢？）</div>
+<div class="article-paragraph">最为迷信进补的人似乎还相信“以形补形”，这里的“形”有时是指人体器官及其功能。其拥护者对诸多奇珍异食趋之若鹜——而这些食物的获取和准备方法有时极其残酷，有些甚至过于恶心而无法在这里描述。</div>
+<div class="article-paragraph"><span>在中国南部很多城市，我都看到过<a href="https://www.youtube.com/watch?v=YHjj-V8_LT4" rel="noopener noreferrer" target="_blank">蛇</a>和<a href="https://www.vice.com/en_us/article/8qkj53/chinas-niche-market-for-bull-penien-china-el-mercado-de-pene-de-toro-es-pequeno-pero-poderosos" rel="noopener noreferrer" target="_blank">牛、马的阴茎</a>在餐厅出售，按照“以形补形”</span>的说法，这些对男人很有好处<span>。据信是当下冠状病毒和SARS病毒来源的<a href="https://www.bbc.com/news/science-environment-51310786" rel="noopener noreferrer" target="_blank">蝙蝠</a>，被认为有益于恢复视力——尤其是它<a href="https://www.pchouse.com.cn/baike/shenghuo/10742/" rel="noopener noreferrer" target="_blank">颗粒状的粪便</a>，名为“夜明砂”。活取的<a href="http://factsanddetails.com/asian/cat68/sub433/item2492.html" rel="noopener noreferrer" target="_blank">熊胆和胆汁</a>对治疗黄疸病有好处；<a href="https://www.dw.com/en/chinas-medicinal-tiger-bones-and-rhino-horns-tradition-or-travesty/a-46193315" rel="noopener noreferrer" target="_blank">虎骨</a>则</span>有助于勃起。</div>
+<div class="article-paragraph">疑似将SARS病毒传染给人类<span>的<a href="https://www.bbc.com/news/science-environment-51310786" rel="noopener noreferrer" target="_blank">果子狸</a></span><span>，是野味中较为平凡却不失拥趸的一种小型脊椎动物。果子狸<a href="http://www.lzyysw.com/shiliao/detail/2848" rel="noopener noreferrer" target="_blank">与蛇一起炖煮</a>，据说可以治疗失眠。</span></div>
+<div class="article-paragraph">不怎么富有的人可能会转而选择狗肉——最好是在宰杀前被追逐过的狗，因为一些人认为，吃血和能量处于高水平的动物尤其“进补”。另外，上桌前刚刚宰杀的动物也被认为更加具有“进补”功效，这也是生鲜市场的野味更多以活体出售的原因——而这也让它们成为潜在病毒的更有效携带者。</div>
+<div class="article-paragraph"><span>进食珍奇野味自古为学者所支持，并推举到神秘主义高度。其中包括医学著作《黄帝内经》。这本约2000年前写就的著作，现在依然为很多注重养生的中国人所推崇。关于特定野味裨益健康的信念——这些信念在报纸专栏和<a href="https://www.google.com/search?q=%E9%A3%9F%E7%99%82%E7%B6%B2&amp;oq=%E9%A3%9F%E7%99%82%E7%B6%B2&amp;aqs=chrome..69i57.6838j1j4&amp;sourceid=chrome&amp;ie=UTF-8" rel="noopener noreferrer" target="_blank">诸多野味主题的网站</a>上被讨论，在中国医学专科学校被教授——已经渗透到整个文化。</span></div>
+<div class="article-paragraph">确实，这些现象并不适用中国全境。它也不是中国独有的：许多其他国家的很多人也吃奇珍异食。但关于中国，值得注意的是，某些食物的某些特殊功能早已被接受；现在，即使在不去食用的人群中，这一点也是被默认的。它已经被深深烙入中国文化集体意识当中。</div>
+<div class="article-paragraph">基于此，我们有充分的理由认为，两个本质上很“中国”的文化行为推动了当下COVID-19疫情的暴发。这话听起来也许相当不悦耳，甚至让一些人深受冒犯。但我们有必要调查这一致命疫情背后的所有起因，不论其性质如何——否则，我们的行为无异于迎向下一场疫情。</div>
+*
+新冠疫情简报：美国可能出现社区感染；疫情削弱中共宣传
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a>订阅<a href="https://m.cn.nytimes.com/morning-brief/" title="Link: https://m.cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/02/26/world/asia/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/02/26/world/asia/coronavirus-news.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/02/26/multimedia/c27briefing/c27briefing-master1050.png" src="https://static01.nyt.com/images/2020/02/26/multimedia/c27briefing/c27briefing-master1050.png"/></div><figcaption><span></span> <cite>THE NEW YORK TIMES</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>湖北新增死亡人数显著下降，中国以外疫情持续<a href="https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html">蔓延</a></b></div>
+<div class="article-paragraph"><span>据<a href="http://www.nhc.gov.cn/xcs/yqtb/202002/369fb309eded45abaf10645a9c8ceb40.shtml" rel="noopener noreferrer" target="_blank">中国国家卫健委</a>通报，周三，大陆新增433例确诊病例、29例死亡病例。湖北报告了近一个月以来的最低单日新增死亡数字：26例。官方数据显示，截至2月26日24时，中国共报告78497例确诊病例，其中2744例死亡。</span></div>
+<div class="article-paragraph">根据世界卫生组织的数据，在中国境外报道的新病例首次超过在中国报告的新病例。中国官员周二报告了411例新感染病例，而在世界其他地区，这一数字为427。不过中国当局警告说，感染率下降可能只是暂时的。</div>
+<div class="article-paragraph"><a href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200226-sitrep-37-covid-19.pdf?sfvrsn=6126c0a4_2" rel="noopener noreferrer" target="_blank">世卫组织最新报告</a>还显示，截至目前，除中国之外，全球已有37个国家发现确诊病例。随着疫情向全球蔓延的速度不断加快，时报绘制了一份实时更新的世界地图，欢迎<a href="https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html">点此查看</a>。</div>
+<div class="article-paragraph"><b>中国多地已出院患者病毒测试“复阳”</b></div>
+<div class="article-paragraph">广东省卫生官员表示，在该省医院出院的患者中，有14%在病毒检测中再次呈阳性。一些医学专家对此表示担忧，并对病毒检测的准确性提出质疑。</div>
+<div class="article-paragraph">该省疾控官员<a href="http://gdio.southcn.com/g/2020-02/25/content_190429333.htm" rel="noopener noreferrer" target="_blank">宋铁</a>在新闻发布会上说，目前还不清楚这些患者是否具有传染性，但表示，广州13名“复阳”患者的104名密切接触者中，无一显示感染迹象。海南、成都等多地官员也表示，当地发现了出院后检测呈阳性的病人。</div>
+<div class="article-paragraph">当前政策规定，只有两次检测结果呈阴性、胸部CT显示正常，患者才能出院。一些专家推测，“复阳”可能因为患者的肺部仍在恢复中，是间歇性排毒现象；但也有专家指出，更有可能的是检测未能发现病毒，或使用的检测方法产生了假阴性结果。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="纽约街头的行人。" data-src="https://static01.nyt.com/images/2020/02/26/nyregion/26virus-briefing24/26nycorona1-master1050.jpg" src="https://static01.nyt.com/images/2020/02/26/nyregion/26virus-briefing24/26nycorona1-master1050.jpg"/></div><figcaption><span>纽约街头的行人。</span> <cite>Kevin Hagen for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"> <b>拉丁美洲出现首宗确诊病例，美国可能暴发社区感染</b></div>
+<div class="article-paragraph">巴西卫生部周三表示，一名最近从意大利前往圣保罗的61岁男子确诊感染了冠状病毒。</div>
+<div class="article-paragraph">这是拉丁美洲第一起已知的案件，发生在巴西狂欢节期间。官方正在追踪他的同航班乘客及密切接触者。据信，这名患者住在圣保罗，最近曾前往意大利北部出差，那里暴发的疫情已经感染了至少325人。</div>
+<div class="article-paragraph">与此同时，美国疾病预防与控制中心周三表示，加州一名患者病毒检测呈阳性，但其未接触过任何感染病毒的人，也没有去过暴发疫情的国家。这意味着美国可能出现了首起<a href="https://www.nytimes.com/2020/02/26/health/cdc-confirms-first-possible-community-transmission-of-coronavirus-in-us.html">社区传播</a>病例。</div>
+<div class="article-paragraph">此外，特朗普宣布任命<a href="https://www.nytimes.com/2020/02/26/us/politics/trump-coronavirus-cdc.html">副总统彭斯</a>主管疫情应对工作，他对政府的疫情应对充满信息心，表示“我们对此已做好了非常、非常、非常充分的准备。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/02/26/business/26NewWorld-illo/26NewWorld-illo-master1050.jpg" src="https://static01.nyt.com/images/2020/02/26/business/26NewWorld-illo/26NewWorld-illo-master1050.jpg"/></div><figcaption><span></span> <cite>Jialun Deng</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>“</b><b>新新世界</b><b>”</b><b>专栏：新型冠状病毒使中共政治宣传机器受挫</b></div>
+<div class="article-paragraph">亲人去世后不顾悲痛继续回到一线救治病人；支援前线的女性医护人员被剃成光头；退休老人在政府办公地点捐赠毕生积蓄……</div>
+<div class="article-paragraph">在与无情病毒的对抗中，中国官方媒体大量炮制了关于团结、牺牲的影像和故事，它们甚至推出了两个虚拟“偶像”。但问题在于，这一次，<a href="https://cn.nytimes.com/china/20200227/china-coronavirus-propaganda/">中国人并不买账</a>。他们看到了太多苦难的叙事，他们看到了李文亮医生的脸，更看到了失去言论自由的代价。</div>
+<div class="article-paragraph">网络上，人们公开地批评官媒，称其丧事喜办，失去公信力。专栏作者袁莉写道，面对难以掩盖的诸多真相，中国日益精进的政治宣传机器面临着几十年来最大的一次挑战。欢迎点击阅读<a href="https://cn.nytimes.com/china/20200227/china-coronavirus-propaganda/" title="Link: https://cn.nytimes.com/china/20200227/china-coronavirus-propaganda/">本文中文版</a>。 </div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="现年30岁的薇格尔·刘在北京的住所。她怀孕已经20周了。由于新型冠状病毒，她担心外出，担心去医院，担心回去上班。" data-src="https://static01.nyt.com/images/2020/02/20/world/00china-mothers-1/merlin_168765603_05908254-0d14-4f6f-8598-57006d69a614-master1050.jpg" src="https://static01.nyt.com/images/2020/02/20/world/00china-mothers-1/merlin_168765603_05908254-0d14-4f6f-8598-57006d69a614-master1050.jpg"/></div><figcaption><span>现年30岁的薇格尔·刘在北京的住所。她怀孕已经20周了。由于新型冠状病毒，她担心外出，担心去医院，担心回去上班。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>“我每天想哭一百次”：疫情令中国孕产妇陷入困境</b></div>
+<div class="article-paragraph">在武汉，社区医院已关闭，公共交通已停运，由于隔离规定，任何人都不能离开小区。突如其来的疫情让孕妇们焦灼不堪，她们的产检、分娩面临着前所未有的困境。</div>
+<div class="article-paragraph">由于医疗资源的紧急调动，不仅是武汉，许多其他地方的准妈妈同样难以获得基本的产前检查，也面临着去哪里分娩的问题。除了这些，疫情期间生下孩子的女性还要面对孤独和无助，以及新生儿无法体检、接种疫苗等状况。这里是<a href="https://cn.nytimes.com/china/20200226/coronavirus-china-pregnant/">本文中文版</a>，欢迎阅读。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，韩国首尔，工作人员正在给市场消毒。" data-src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing21/merlin_169544973_28a6a051-e7e3-47d9-9de5-d757790e9316-master1050.jpg" src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing21/merlin_169544973_28a6a051-e7e3-47d9-9de5-d757790e9316-master1050.jpg"/></div><figcaption><span>周三，韩国首尔，工作人员正在给市场消毒。</span> <cite>Jeon Heon-Kyun/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>驻韩美军报告首宗确诊病例</b></div>
+<div class="article-paragraph">美国军方周三表示，一名驻韩美军士兵的新型冠状病毒检测呈阳性。这名23岁的男子驻扎在离大邱只有12英里的漆谷郡卡罗尔军营，目前已在基地外的住所被隔离。</div>
+<div class="article-paragraph">军方表示，两国“卫生专业人员正在积极追踪接触者，以确定是否有其他人受到感染”。鉴于当前形势，驻韩美军已将预警级别<a href="https://cn.yna.co.kr/view/ACK20200226002700881?section=politics/index" rel="noopener noreferrer" target="_blank">调至“高级”</a>，建议所有部队限制非必要的会议和出行。</div>
+<div class="article-paragraph">此外，周二，美国和韩国表示，他们将考虑缩减联合军事演习的规模。韩国军队中暴发的疫情已经导致至少13人感染。</div>
+<div class="article-paragraph"><b>相关报道：没有中国式封锁，<a href="https://cn.nytimes.com/asia-pacific/20200226/daegu-south-korea-coronavirus/">韩国大邱</a>能遏制病毒吗？</b>大邱尝试用一种不那么僵化的方式抵御病毒：在保持人口流动、城市运转同时积极监测感染情况。如果能够奏效，这也许会成为更加崇尚民主的社会的方案模板。</div>
+<div class="article-paragraph"><b>观点：如果日本无法应付病毒，它有资格举办奥运吗</b></div>
+<div class="article-paragraph">在新冠疫情向全球传播的进程中，日本已成为一个不可忽视的暴发中心。对于作为2020年奥运会主办国的日本来说，为何政府的反应如此<a href="https://www.nytimes.com/2020/02/26/opinion/coronavirus-japan-abe.html">“令人难以置信地无能”</a>？</div>
+<div class="article-paragraph">日本政治学者中野晃一在时报撰文指出，当局从一开始就反应滞后，而后甚至要求民众如无严重症状，不要去给医疗机构添麻烦。“钻石公主号”的管理混乱更将政府应对措施的不足暴露无疑。</div>
+<div class="article-paragraph">中野晃一写道，这是一种否认和惰性的表现。日本的官僚机构不愿打破稳定，而领导人又被一群“马屁精”包围。管理者和普通人的生活如此脱节，以至于他们看来真的对老百姓的困境不感兴趣。稍后我们带来这篇观点文章的中文版，敬请期待。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1月，沙特阿拉伯，在麦加大清真寺做礼拜的信众。" data-src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing25/merlin_167915472_0021b3ef-9b91-437a-99cf-7088bfc0cd63-master1050.jpg" src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing25/merlin_167915472_0021b3ef-9b91-437a-99cf-7088bfc0cd63-master1050.jpg"/></div><figcaption><span>1月，沙特阿拉伯，在麦加大清真寺做礼拜的信众。</span> <cite>Amr Nabil/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息：</b></div>
+<div class="article-paragraph"><span>• 沙特阿拉伯周三宣布，暂时<b>禁止穆斯林朝圣者进入该国访问麦加和麦地那圣城</b>，以减缓新冠病毒的传播。这与伊朗的态度形成鲜明对比，该国已报告139例确诊病例和19例死亡病例，但该国领导人一再坚称，疫情已得到控制，该国的朝圣地也仍在对外开放。有证据表明，已有访问伊朗的人将病毒传播到其他多个国家。</span></div>
+<div class="article-paragraph"><span>• 德国卫生部长周三表示，在该国确诊的新病例中，<b>部分感染链已无法追踪，</b>这表示病毒可能已经开始在该国内部传播。当局试图追踪一对确诊夫妇的感染来源，但无法立即得到确认。官员表示，这对夫妇在确诊前两周“参与了正常的公共生活”，其中包括参加一个大型狂欢节聚会，并曾短暂前往荷兰。</span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="米兰中央火车站。" data-src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing23/26virus-spain04-master1050.jpg" src="https://static01.nyt.com/images/2020/02/26/world/26virus-briefing23/26virus-spain04-master1050.jpg"/></div><figcaption><span>米兰中央火车站。</span> <cite>Andrea Mantovani for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>• 疫情对</b><a href="https://www.nytimes.com/2020/02/26/world/europe/coronavirus-european-union.html"><b>申根区</b></a><b>跨境自由流动系统构成严重威胁</b>。自2015年移民危机以来，欧洲内部对自由流动的反对声一直不断。随着新冠病毒的暴发，要求关闭各国边界的呼声越来越高。虽然到目前为止，尚未有国家采取行动，但若疫情继续升温，形势可能会有所改变。</div>
+<div class="article-paragraph"><b>• </b><b>港府拟向每名公民派发1万港币现金</b>，以鼓励消费，提振因疫情暴发及连月抗议而备受冲击的香港经济。财政司司长陈茂波说，派发现金的政策将惠及约700万人，涉及金额约711亿港币。香港还将为约200万纳税人削减薪俸税，每人最高可达2万港币。</div>
+<div class="article-paragraph"><span><b>• 全球金融市场持续震荡，</b>标普500指数收盘下跌0.4%，本周跌幅已超过6%。十年期美国国债收益率连续第二天跌至历史新低。石油价格也有所下跌。</span></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="中国北京的一条商业街。" data-src="https://static01.nyt.com/images/2020/02/24/opinion/24douthatWeb/merlin_168827445_da28be8f-1fdd-41b2-b09f-d602af9ea649-master1050.jpg" src="https://static01.nyt.com/images/2020/02/24/opinion/24douthatWeb/merlin_168827445_da28be8f-1fdd-41b2-b09f-d602af9ea649-master1050.jpg"/></div><figcaption><span>中国北京的一条商业街。</span> <cite>Kevin Frayer/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多中文报道：</b></div>
+<div class="article-paragraph"><b>• 新冠疫情重创亚洲旅游业</b>：<a href="https://cn.nytimes.com/travel/20200226/coronavirus-asia-tourism/">沉寂如“墓地”</a>。无论在日本、泰国还是越南，昔日热门的旅游景点、酒店和商店已经空荡荡。中国是全球主要的国际游客和旅游支出来源，疫情令严重依赖中国游客的国家面临巨大的经济损失。</div>
+<div class="article-paragraph"><b>• 观点：新冠病毒不是文明的终结者，</b><a href="https://cn.nytimes.com/opinion/20200226/coronavirus-cases-spread/"><b>但它是一场测试</b></a><b>。</b>无论从医学还是经济角度，我们的反应似乎远不够充分。这场测试针对的是全球化的弱点，是西方民粹主义建制僵局造成的治理不善和不信任。</div>
+<div class="article-paragraph"> <i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+新冠疫情简报：“两会”或延迟召开；活动人士许志永被捕
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处</a>订阅<a href="https://m.cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/02/17/world/asia/china-coronavirus.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><b>确诊及死亡病例数字汇总更新</b></div>
+<div class="article-paragraph"><span>据中国<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202002/261f72a74be14c4db6e1b582133cf4b7.shtml" rel="noopener noreferrer" target="_blank">国家卫健委</a>通报，</span>2月17日，中国大陆新增1886例确诊病例，98人死亡。目前累计报告确诊病例72436例，死亡病例1868例。</div>
+<div class="article-paragraph">目前湖北仍然是确诊和死亡病例的重灾区。<a href="http://wjw.hubei.gov.cn/fbjd/tzgg/202002/t20200218_2091008.shtml" rel="noopener noreferrer" target="_blank">湖北卫健委</a>公告显示，周一，该省共新增1807例确诊病例，93人死亡。这意味着除了五人之外，其余死亡病例全部发生在湖北。 </div>
+<div class="article-paragraph"><b>中国</b><b>“</b><b>两会</b><b>”</b><b>或将延迟召开</b></div>
+<div class="article-paragraph">中国周一表示，由于新冠病毒疫情，<a href="https://www.nytimes.com/2020/02/17/world/asia/china-coronavirus-congress-postpone.html">或将推迟</a>由共产党主导的全国人大会议和政协会议。这对一个通常纪律严明的政府来说是一个具有象征意义的打击。</div>
+<div class="article-paragraph">每年3月，近3000名代表都会全国各地赶赴北京参会。但从全国人大常委会发布的一份声明来看，今年的“两会”极有可能会被推迟。声明称，该委员会将就暂缓召开会议进行审议投票。</div>
+<div class="article-paragraph">如果确定延缓，这将是近年来中国首次推迟年度立法会议。即使在2003年的非典时期，全国人民代表大会也照常进行。不过，推迟“两会”不见得会严重影响中国的政策制定，目前这项权利由一小群党内领导人控制。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，北京一家空荡荡的商场。" data-src="https://static01.nyt.com/images/2020/02/17/world/17-china-briefing89/merlin_168948762_240145e6-cc71-46af-884f-7cdfc19fff8e-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/world/17-china-briefing89/merlin_168948762_240145e6-cc71-46af-884f-7cdfc19fff8e-master1050.jpg"/></div><figcaption><span>上周，北京一家空荡荡的商场。</span> <cite>Giulia Marchi for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国经济阀门缓慢重启，任务艰巨</b></div>
+<div class="article-paragraph">全球第二大经济体在三周前几乎停止运转。如今，随着一些工厂重新开工，<a href="https://www.nytimes.com/2020/02/17/business/china-coronavirus-economy.html">重启中国经济</a>这一任务的艰巨性正变得越来越清晰。</div>
+<div class="article-paragraph">中国控制疫情的努力与让国家重新运转的努力正发生冲突，这要求政府在保障人民安全与让关键产业重回正轨之间取得平衡。</div>
+<div class="article-paragraph">隔离、封锁的道路和检查站使数百万工人无法重回工作岗位，供应链也已被切断。当前，至少有7.6亿人——超过中国人口的一半——处于各种各样的封锁之下。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="2009年，许志永在北京。" data-src="https://static01.nyt.com/images/2020/02/17/world/17china-dissident01/merlin_76795097_5c5e6a6c-02ef-4574-bf66-1958eb823258-jumbo.jpg" src="https://static01.nyt.com/images/2020/02/17/world/17china-dissident01/merlin_76795097_5c5e6a6c-02ef-4574-bf66-1958eb823258-jumbo.jpg"/></div><figcaption><span>2009年，许志永在北京。</span> <cite>Greg Baker/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国活动人士许志永被拘</b></div>
+<div class="article-paragraph">他将习近平描绘成一个贪恋权力的人。他指责习近平试图掩盖新冠病毒疫情。在他最大胆的一篇文章中，他敦促习近平“让位”，称他“不够聪明”。</div>
+<div class="article-paragraph">然后，在周末，中国知名法律维权人士许志永<a href="https://www.nytimes.com/2020/02/17/world/asia/coronavirus-china-xu-zhiyong.html">与外界失联</a>。据许志永的朋友说，他躲藏了近两个月，周六被广州当局拘留。据信，其女友、社会活动人士李翘楚在周日失踪。</div>
+<div class="article-paragraph">现年46岁的许志永曾任大学讲师，长期以来一直在抨击中国政府的腐败和社会不公。去年12月，当警方开始围捕在厦门与他会面的人权活动人士后，他开始“逃亡”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上个月，武汉的一家市场。" data-src="https://static01.nyt.com/images/2020/02/17/world/17china-briefing09/merlin_167680755_09dfed07-093a-45ac-b62f-8daf0198cc98-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/world/17china-briefing09/merlin_167680755_09dfed07-093a-45ac-b62f-8daf0198cc98-master1050.jpg"/></div><figcaption><span>上个月，武汉的一家市场。</span> <cite>Hector Retamal/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中国将就禁止滥食和非法交易野生动物立法</b></div>
+<div class="article-paragraph">新冠病毒暴发促使中国重新考虑其野生动物的贸易和消费，这已被认定为疫情的一个可能来源。</div>
+<div class="article-paragraph">官员们已经起草法案，并计划在本次全国人大会筹备会议上提交。该提案的细节尚不清楚，但目标是“禁止非法野生动物交易、革除滥食野生动物陋习”。</div>
+<div class="article-paragraph">虽然这种冠状病毒的确切来源仍在调查中，但卫生官员和科学家此前曾表示，它是从武汉华南海鲜市场向外传播的。中国对濒危的野生动物有禁止贩卖的立法，但执法不严。</div>
+<div class="article-paragraph"><b>美国参议员重申阴谋论，称病毒可能来自武汉病毒所</b></div>
+<div class="article-paragraph">中国政府是疫情幕后黑手的说法缺乏证据，已被科学家们驳倒。但这种阴谋论仍在一些地方恣意生长。</div>
+<div class="article-paragraph">来自阿肯色州的共和党参议员Tom Cotton在接受福克斯新闻采访时表示，病毒有可能来自武汉的<a href="https://www.nytimes.com/2020/02/17/business/media/coronavirus-tom-cotton-china.html">一个高度戒备的生化实验室</a>。“我们没有证据表明这种疾病起源于那里，”这位参议员说，“但由于中国从一开始就表里不一，我们至少需要问一下这个问题，看看证据都说了些什么，而中国现在根本没有就这个问题提供任何证据。”</div>
+<div class="article-paragraph">尽管在备受批评后，Cotton后来在推特上表示自己并不认同病毒是中国生物武器的观点，但这种说法已引发了一些人的共鸣，包括特朗普的前首席策略师班农和流亡的中国富翁郭文贵。而北京严格的审查制度和对信息的严格控制，也在不知不觉中助长了阴谋论。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，东京车站外的通勤者。" data-src="https://static01.nyt.com/images/2020/02/13/world/13china-briefing99/13china-briefing99-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/world/13china-briefing99/13china-briefing99-master1050.jpg"/></div><figcaption><span>上周，东京车站外的通勤者。</span> <cite>The Asahi Shimbun, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>受疫情影响，日本经济走向衰退</b></div>
+<div class="article-paragraph">2019年第四季度，在遭受毁灭性的​​台风侵袭，以及受到国内消费税上涨的影响后，日本经济出现萎缩。现在，新冠病毒的威胁世界让第三大经济体进入<a href="https://www.nytimes.com/2020/02/16/business/coronavirus-japan-economy.html">五年来的首次衰退</a>。日本政府周一表示，该国去年第四季度GDP年率下降6.3％。</div>
+<div class="article-paragraph">去年10月，该国的消费税从8％提高到10％，这抑制了民众的消费支出。增税生效几天后，台风海贝思猛烈来袭，造成巨大损失，进一步抑制了经济活动。而在那之前，日本的出口就已受到中国增长放缓的打击。</div>
+<div class="article-paragraph">政府官员曾希望这些问题在新的一年能够缓解。但随着新冠病毒疫情暴发，这一乐观的估计付诸东流。目前，很多从日本购买零件和设备的中国公司已因疫情而关闭，中国访日游客人数也大幅下降。</div>
+<div class="article-paragraph"><b>相关新闻：东京马拉松限制参赛人数。</b>赛事组织者宣布，原计划38000人参加的马拉松比赛将仅限245名精英选手和30名精英轮椅运动员参加，大众组比赛被取消。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="本月，香港一间药店外销售的厕纸。" data-src="https://static01.nyt.com/images/2020/02/17/world/17china-briefing-hk/merlin_168564573_44b4aee5-05e7-41f8-9c77-e5d6747fad44-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/world/17china-briefing-hk/merlin_168564573_44b4aee5-05e7-41f8-9c77-e5d6747fad44-master1050.jpg"/></div><figcaption><span>本月，香港一间药店外销售的厕纸。</span> <cite>Jerome Favre/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息：</b></div>
+<div class="article-paragraph"><b>• 香港发生厕纸劫案。</b>周一早间，三名蒙面劫匪在旺角一家超市持刀抢劫，抢走了价值100美元的厕纸。警方称目前已有两人被捕。据当地媒体报道，被抢走的厕纸后来在一间酒店中被找到。</div>
+<div class="article-paragraph"><b>• 美国允许“钻石公主号”无症状感染者撤离。</b>美国官方此前曾要求，任何感染新冠病毒的人均不得登上包机，但情况迅速出现了变化。在14名前往机场的美国公民病毒检测呈阳性后，美国政府决定让尚未表现出症状，且“适合飞行”的撤离人员登上返美航班。</div>
+<div class="article-paragraph"><b>• 澳大利亚准备从“钻石公主号”撤侨。</b>总理莫里森周一称，该国将撤离被困在这艘邮轮上的200余名澳大利亚公民，并将他们送往在北部城市达尔文的一个采矿营进行为期两周的隔离。</div>
+<div class="article-paragraph"><b>• “威士特丹号”邮轮乘客接受检测。</b>在船上一名乘客被发现感染新冠病毒后，近1000名本已准备回家的船员和乘客周一接受了病毒检测。</div>
+<div class="article-paragraph"><b>• 俄罗斯法院要求从隔离中脱逃者回到医院。</b>法庭裁定，尽管这名女性从中国回到俄罗斯后曾进行过病毒检测，结果为阴性。但她仍需要回到医院继续隔离，并在接受两次检测均呈阴性后才能回家。这一裁决向所有可能躲避隔离的人发出了明确信号。</div>
+<div class="article-paragraph"><b>• 苹果公司下调销售预期。</b>该公司周一表示，由于疫情暴发导致生产放缓，iPhone的供应受到影响，该公司已<a href="https://www.nytimes.com/2020/02/17/technology/apple-coronavirus-economy.html">下调了销售预期</a>。这标志着疫情给制造业造成了巨大损失，即使是全球最有价值的公司之一也难逃影响。</div>
+<div class="article-paragraph"><b>• 疫情对全球旅游业造成重创。</b>对病毒扩散的恐慌和旅游限制的影响已导致全球数千个航班和酒店订单被取消，一些文化和商务活动也被迫取消或推迟，随着中国游客骤降，全球旅游业正面临“严冬”。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="官方通讯社新华社发布的一张照片显示，习近平上周视察了北京的一个社区。" data-src="https://static01.nyt.com/images/2020/02/11/world/15china-xi/merlin_168719709_297a467a-2f96-48fc-ad40-b9cf3e24f76a-master1050.jpg" src="https://static01.nyt.com/images/2020/02/11/world/15china-xi/merlin_168719709_297a467a-2f96-48fc-ad40-b9cf3e24f76a-master1050.jpg"/></div><figcaption><span>官方通讯社新华社发布的一张照片显示，习近平上周视察了北京的一个社区。</span> <cite>Pang Xinglei/Xinhua, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>中文报道：</b></div>
+<div class="article-paragraph"><b>• 习近平称其1月7日就下令防疫，</b><a href="https://cn.nytimes.com/china/20200217/xi-china-coronavirus/"><b>这意味着什么</b></a><b>？</b>在周六发表的一个内部讲话中，习近平试图扭转对自己不利的说法，表示很早就已采取行动。分析认为，这份讲话意在打消对习最近退出公众视野的猜测，但也可能会为他招致没有尽早处理威胁的批评，让他很难将责任推给地方官员。</div>
+<div class="article-paragraph"><b>• </b><a href="https://cn.nytimes.com/china/20200217/china-coronavirus-lockdown/"><b>中国用毛式社会控制运动对抗疫情</b></a><b>。</b>中国正在通过一个加强版的“居民联防”抗击疫情。各地的管控措施主要依靠大量基层工作人员和志愿者实施，但当局也将庞大的人力资源和移动技术结合起来追踪限制人口。在这场“人民战争”中，执法极端化、各自为政的情况时有发生。</div>
+<div class="article-paragraph"><b>• 用视频记录武汉疫情，公民记者</b><a href="https://cn.nytimes.com/business/20200217/wuhan-coronavirus-journalists/"><b>陈秋实、方斌失踪</b></a><b>。</b>失踪之前，陈秋实和方斌让人们看到了疫情中心未加过滤、令人心碎的画面。人们对这些视频感兴趣一定程度上反映了中国缺少独立新闻来源，也显示出社会对言论自由的呼声越来越高。但二人的失踪表明，共产党不打算放松对舆论的控制。</div>
+<div class="article-paragraph"><b>• 疫情、封锁与阴谋论：</b><a href="https://cn.nytimes.com/china/20200217/china-coronavirus-american/"><b>中国小镇里的美国人见闻</b></a><b>。</b>随着浙江雉城将自己与外界完全隔离，华裔美国人鲍勃·黄以外人的困惑眼光观察着眼前的一切。这里如今难得人际互动，阴谋论丛生，整个镇子深陷倦怠和孤独。“人人都很无聊，”他说。</div>
+<div class="article-paragraph"><b>• </b><a href="https://cn.nytimes.com/business/20200217/coronavirus-temperature-sensor-guns/"><b>使用体温枪防疫真的有用吗</b></a><b>？</b>当局正在中国各地使用体温枪筛查发热者、防止新冠病毒传播，导致该行业需求猛增、供应短缺。但专家表示，体温枪在严格控制的医疗环境之外往往是不可靠的。“坦率地说，有些只是为了做做样子。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1月，在北京等待火车的中国学生。" data-src="https://static01.nyt.com/images/2020/01/31/universal/zh/coronavirus-callout-sub-zh-hans/merlin_168147336_bd400ea4-2e50-4b87-90dc-8eb885e5d7be-master1050.jpg" src="https://static01.nyt.com/images/2020/01/31/universal/zh/coronavirus-callout-sub-zh-hans/merlin_168147336_bd400ea4-2e50-4b87-90dc-8eb885e5d7be-master1050.jpg"/></div><figcaption><span>1月，在北京等待火车的中国学生。</span> <cite>Kevin Frayer/Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>征文：</b><a href="https://www.nytimes.com/zh-hans/2020/02/11/world/asia/corona-virus-student-stories-chinese.html"><b>新冠病毒给你带来什么影响</b></a><b>？</b></div>
+<div class="article-paragraph">我们希望听到居住在海外、计划去海外学习或出国旅行的中国学生、他们的家人及朋友的声音，了解你的生活受到了怎样的影响，以及你为应对疫情做了些什么。</div>
+<div class="article-paragraph">请将你的故事和图片发给我们。我们将从中选择一些发表，或与你联系进行简短采访。</div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+两名武汉女性医护人员的生与死
+<div class="article-paragraph"> <i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">这两位年轻的母亲没有告诉她们的孩子，自己感染了新型冠状病毒。她们只是说，妈妈在治病救人，工作特别忙。<br/></div>
+<div class="article-paragraph">实际上，邓丹菁和夏思思正在她们各自工作过的医院里与死神做斗争，她们发着烧，身体虚弱，呼吸困难。在短短几周的时间里，她们从工作在中国武汉<a href="https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus-doctors.html">疫情前线</a>、身体健康的医护人员，变成了新型冠状病毒肺炎的病危患者。</div>
+<div class="article-paragraph">世界仍在努力全面了解这种新病毒及其<a href="https://www.nytimes.com/article/coronavirus-symptoms-flu.html">症状</a>、传播途径和来源。对一些患者来说，它的症状与患<a href="https://www.nytimes.com/2020/02/29/health/coronavirus-flu.html">普通感冒</a>差不多。对另一些患者来说，感染将导致死亡，病毒给他们的肺造成严重损害，使免疫系统超负荷运转，甚至健康的细胞也被破坏。生与死的区别可能取决于患者的健康状况、年龄和接受治疗的机会，但也并非都如此。</div>
+<div class="article-paragraph">全球感染新冠病毒的人数<a href="https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html">已经超过13.2万</a>。绝大多数是<a href="https://cn.nytimes.com/china/20200228/coronavirus-treament-recovery/">轻/中症病例</a>，症状有限。但可能出现急转直下的情况，那之后活下来的概率会大幅下降。有约6.8万人已经康复，但也有近5000人死亡。</div>
+<div class="article-paragraph">邓丹菁和夏思思的命运反映了一种对不同人有不同影响的病毒的不可预测性，有时甚至违背统计平均和科学研究。<br/></div>
+<div class="article-paragraph">在<a href="https://cn.nytimes.com/china/20200309/china-coronavirus-cost/">中国</a>新年到来之际，这两名女性还过着非常相似的生活。两人都是29岁。都已结婚，各有一个宠爱的孩子。<br/></div>
+<div class="article-paragraph">邓丹菁是一名护士，已在武汉市第七医院工作了三年，她在武汉长大，那里也是新冠病毒疫情暴发的地方。她母亲也曾是当地的一名护士，娘俩闲的时候喜欢一起去看电影或买东西。邓丹菁最喜欢逗自己的两只宠物猫——胖虎和小白，小白是她生病前三个月才捡来的。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="疫情暴发前，邓丹菁曾答应带五岁的女儿去水族馆。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-03/c00coronavirus-death-life-03-master1050.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-03/c00coronavirus-death-life-03-master1050.jpg"/></div><figcaption><span>疫情暴发前，邓丹菁曾答应带五岁的女儿去水族馆。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">夏思思是一名消化内科医生，也来自一个医务工作者家庭。小时候，她会陪着当护士的母亲去工作。2015年她到武汉协和江北医院工作时，是科室里最年轻的医生。同事们叫她“小思思”或“小甜甜”，因为她总是笑盈盈的。她喜欢吃以麻辣汤底闻名的四川火锅。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="夏思思喜欢和家人一起旅行。她最近去了海南的蜈支洲岛。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-04/c00coronavirus-death-life-04-master1050.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-04/c00coronavirus-death-life-04-master1050.jpg"/></div><figcaption><span>夏思思喜欢和家人一起旅行。她最近去了海南的蜈支洲岛。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">当一种原因不明的新病毒袭击这座城市后，这两名女性都开始了长时间工作，为似乎无穷无尽的患者治疗。她们采取了防护措施保护自己。但最终她们都被感染，这种高度传染性的病毒深入到她们的肺部，引起发烧和肺炎。住院后，她们各自的情况都急转直下。<br/></div>
+<div class="article-paragraph">她们中一人康复。一人去世。<br/></div>
+<div class="article-paragraph"> <b>症状</b></div>
+<div class="article-paragraph"> <i>发病和住院</i><br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="邓丹菁是武汉人，喜欢化妆，喜欢和朋友一起去星巴克。她追随母亲的职业脚步，当上了护士，已有八年时间。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-05/c00coronavirus-death-life-05-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-05/c00coronavirus-death-life-05-jumbo.jpg"/></div><figcaption><span>邓丹菁是武汉人，喜欢化妆，喜欢和朋友一起去星巴克。她追随母亲的职业脚步，当上了护士，已有八年时间。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="夏思思深受老年患者喜爱，她为治疗疑似新冠病毒感染者长时间在医院工作。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-06/c00coronavirus-death-life-06-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-06/c00coronavirus-death-life-06-jumbo.jpg"/></div><figcaption><span>夏思思深受老年患者喜爱，她为治疗疑似新冠病毒感染者长时间在医院工作。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">症状的出现很突然。<br/></div>
+<div class="article-paragraph">1月14日，夏思思刚刚结束了自己的夜班工作，就被医院叫回去救治一名疑似感染了新冠病毒的76岁男子。她多次对他进行检查。<br/></div>
+<div class="article-paragraph">五天后，夏思思开始觉得不舒服。筋疲力尽的她在家里小睡了两小时，醒来后给自己测了体温：38度9。她感到胸闷。</div>
+<div class="article-paragraph">几周后的二月初，护士邓丹菁准备在医院办公室里吃晚饭，但一看到食物就让她恶心。她没把这种感觉放在心里，觉得那是因为自己工作太累了。疫情暴发初期，她一直在走访确诊患者的家庭，教他们的家人如何给家里消毒。</div>
+<div class="article-paragraph">强咽下一些食物后，邓丹菁回家洗了个澡，然后感觉头昏，就去小睡了一会儿。醒来后她测了体温：37度8。<br/></div>
+<div class="article-paragraph">发烧是新冠病毒感染最常见的症状，近90%的患者都会发烧。约五分之一的患者有呼吸困难的症状，通常包括咳嗽和鼻塞。许多人也会感到疲劳。<br/></div>
+<div class="article-paragraph">两人都赶紧去看了医生。胸部扫描显示她们的肺部受了损伤，据一项研究，至少85%的新冠病毒患者有这种表现。</div>
+<div class="article-paragraph">尤其是邓丹菁，她的CT扫描显示，右肺下半部有医生称之为磨玻璃样混浊的表现，表明她的肺泡周围有液体或炎症。<br/></div>
+<div class="article-paragraph">由于医院没有床位，邓丹菁住进了一家酒店，以免感染丈夫和五岁的女儿。她整夜都在出汗，小腿还抽过一次筋。第二天早上，她住进了医院。她做了咽拭子检测，结果证明她感染了新冠病毒。<br/></div>
+<div class="article-paragraph">她住在为受感染的医护人员新近设立的病房里，房间很小，里面只有两张标有号码的小床。邓丹菁躺在28号病床上。她的室友是一位也被确诊的同事。</div>
+<div class="article-paragraph">在大约30公里以外的协和江北医院，夏思思呼吸困难。她住在一间隔离病房里，穿着防护服、戴着护目镜的医生和护士为她治疗。房间里很冷。<br/></div>
+<div class="article-paragraph"> <b>治疗</b></div>
+<div class="article-paragraph"> <i>住院治疗开始的第一天</i><br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="邓丹菁住院后给丈夫发短信要他照顾好自己，并提醒他在病毒14天的潜伏期里注意自己。丈夫把他正常的体温发过来，让她放心。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-07/c00coronavirus-death-life-07-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-07/c00coronavirus-death-life-07-jumbo.jpg"/></div><figcaption><span>邓丹菁住院后给丈夫发短信要他照顾好自己，并提醒他在病毒14天的潜伏期里注意自己。丈夫把他正常的体温发过来，让她放心。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="夏思思问丈夫是否有可能很快结束氧疗。他乐观地回答了妻子。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-08/c00coronavirus-death-life-08-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-08/c00coronavirus-death-life-08-jumbo.jpg"/></div><figcaption><span>夏思思问丈夫是否有可能很快结束氧疗。他乐观地回答了妻子。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">邓丹菁住院后，努力保持乐观。她给丈夫发短信，敦促他即使在家里也要戴口罩，叫他用开水洗他们所有的碗和筷子，不然就全扔掉。<br/></div>
+<div class="article-paragraph">丈夫给她发了家里两只猫中一只的照片。“等你回来撸，”他写道。<br/></div>
+<div class="article-paragraph">“估计得十天半个月，”她回答说。“你注意自己吧。”<br/></div>
+<div class="article-paragraph">新型冠状病毒肺炎（世界卫生组织将其命名为Covid-19）目前还没有已知的治疗方法。所以，医生们靠其他药物，主要是抗病毒药物的混合使用，来缓解症状。</div>
+<div class="article-paragraph">邓丹菁的医生给她开的药物包括俄罗斯和中国用于治疗流感的抗病毒药物阿比多尔、国际上其他地区更常见的治疗流感药物达菲，还有一种被认为可以阻止病毒复制的治疗艾滋病的药物克力芝。邓丹菁每天至少要服12片药，还有中药。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="医生给邓丹菁开了抗病毒药物阿比多尔，以缓解她的症状。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-09/c00coronavirus-death-life-09-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-09/c00coronavirus-death-life-09-jumbo.jpg"/></div><figcaption><span>医生给邓丹菁开了抗病毒药物阿比多尔，以缓解她的症状。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">尽管她保持乐观，但身体仍越来越虚弱。她妈妈把家里做的饭送到病房外面，但她没有胃口。为了补充营养，一名护士每天早上8点半来给她做静脉输液。此外，输入她血液中的还有抗体以及抗病毒药物。<br/></div>
+<div class="article-paragraph">虽然夏思思的病情也很重，但她似乎正在慢慢战胜病毒。几天后，她的烧退了，上了呼吸机后，她的呼吸也变得容易一些了。<br/></div>
+<div class="article-paragraph">她有了精神。1月25日，她告诉同事自己正在康复。<br/></div>
+<div class="article-paragraph">她在微信群里发短信说：“我会尽快归队的。”<br/></div>
+<div class="article-paragraph">“我们最需要你，”她的一位同事回复道。<br/></div>
+<div class="article-paragraph">2月初，夏思思问丈夫吴石磊，他是否觉得她能很快停止氧疗。吴石磊也是一名医生。</div>
+<div class="article-paragraph">“慢慢来，不用太着急，”他用微信回复。他告诉妻子，可能下周会脱离呼吸机。<br/></div>
+<div class="article-paragraph">“老是想快点好，”夏思思回答道。<br/></div>
+<div class="article-paragraph">有理由相信她正在好转。毕竟，大多数新冠病毒患者都能康复。<br/></div>
+<div class="article-paragraph">后来，夏思思做了两次新冠病毒检测，结果均呈阴性。她告诉母亲，预计将于2月8日出院。<br/></div>
+<div class="article-paragraph"> <b>恶化</b></div>
+<div class="article-paragraph"> <i>住院后第4～16天</i></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="在医院里，邓丹菁唯一能接触到的就是她病房的室友和医务人员。她在一张与医生的合影上写道，笑声可以把病魔赶跑。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-10/c00coronavirus-death-life-10-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-10/c00coronavirus-death-life-10-jumbo.jpg"/></div><figcaption><span>在医院里，邓丹菁唯一能接触到的就是她病房的室友和医务人员。她在一张与医生的合影上写道，笑声可以把病魔赶跑。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="夏思思两次病毒检测结果都显示阴性，但她的情况突然恶化。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-11/c00coronavirus-death-life-11-jumbo.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-11/c00coronavirus-death-life-11-jumbo.jpg"/></div><figcaption><span>夏思思两次病毒检测结果都显示阴性，但她的情况突然恶化。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">到住院的第四天，邓丹菁再也无法假装乐观了。她开始呕吐、腹泻，身体不停发抖。</div>
+<div class="article-paragraph">她发烧到38度5。2月5日清晨，她从断断续续的睡眠中醒来，发现药物并没能降低体温。她哭了。她说自己已被列为危重病人。</div>
+<div class="article-paragraph">接下来一天，她吐了三次，直到吐出白沫。她觉得自己出现了幻觉。她失去了嗅觉和味觉，心率减慢到每分钟50次左右。</div>
+<div class="article-paragraph">在电话中，邓丹菁的母亲试图安慰她，说她还年轻，没有什么其他的病，病毒会像一次重感冒一样过去。但邓丹菁仍然恐惧。“感觉在死亡的边缘游走，”躺在病床上的她第二天在社交媒体上写道。</div>
+<div class="article-paragraph">中国对危重病人的定义是呼吸衰竭、休克或器官衰竭。根据迄今为止对冠状病毒<a href="http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51" rel="noopener noreferrer" target="_blank">最大</a><a href="http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51" rel="noopener noreferrer" target="_blank">规模</a>的病例研究之一，中国约有5%的感染者属于危重病人。其中，49%的人死亡。（如果世界各地检测出更多病例，这些比率最终可能会改变。）</div>
+<div class="article-paragraph">虽然夏思思看上去正在康复，但她仍然害怕。检测可能出错，阴性结果并不一定意味着已经没事。</div>
+<div class="article-paragraph">她请母亲给自己一个承诺：如果她没撑过去，父母能照顾她两岁的儿子吗？</div>
+<div class="article-paragraph">为了消除她的焦虑，她母亲姜文艳开玩笑斥责她：“你自己的孩子，自己不带，还让我们带？”</div>
+<div class="article-paragraph">夏思思也很担心丈夫。在视频聊天时，她要他在医院上班时穿上防护服。“她说她会等着我平安归来，”他说，“病好后要和我一起去一线。”</div>
+<div class="article-paragraph">后来就是那通电话。夏思思的情况突然恶化。2月7日凌晨，她的丈夫赶到了急诊室。</div>
+<div class="article-paragraph">她的心脏停止了跳动。</div>
+<div class="article-paragraph"> <b>康复</b></div>
+<div class="article-paragraph"> <i>住院后第17天</i></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="出院后，邓丹菁与自己生病期间在医院工作的母亲短暂见面。随后她回到家中自我隔离了两个星期。" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-12/c00coronavirus-death-life-12-master1050.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-12/c00coronavirus-death-life-12-master1050.jpg"/></div><figcaption><span>出院后，邓丹菁与自己生病期间在医院工作的母亲短暂见面。随后她回到家中自我隔离了两个星期。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">大多数情况下，患者身体会自我修复。免疫系统能产生足够的抗体清除病毒，病人就能康复。</div>
+<div class="article-paragraph">住院一周后，邓丹菁退了烧。她可以吃母亲送来的食物。2月10日，随着胃口的恢复，她在网上搜索了烤肉串的图片，并满怀希望地发到了社交媒体上。</div>
+<div class="article-paragraph">2月15日，她的咽拭子检测结果呈阴性。三天后，检测结果再次呈阴性。她可以回家了。</div>
+<div class="article-paragraph">邓丹菁与母亲在医院门口短短见了一面。然后，因为武汉仍在封城，没有出租车和公共交通，她一个人走回了家。</div>
+<div class="article-paragraph">“像个小鸟，”她回忆道。“还给了我自由。”</div>
+<div class="article-paragraph">她还需要在家隔离14天。丈夫和女儿与她父母住在一起。</div>
+<div class="article-paragraph">到家后，她把在医院里一直穿的衣服都扔掉了。</div>
+<div class="article-paragraph">那之后，她就靠陪猫玩耍和看电视打发时间。她开玩笑说，自己提前尝到了退休的滋味。她每天都做深呼吸来增强肺部功能，咳嗽症状也减轻了。</div>
+<div class="article-paragraph">中国政府敦促康复病人捐献血浆，专家称血浆中含有可以用来治疗病人的抗体。邓丹菁回家后不久就联系了当地一家血库。</div>
+<div class="article-paragraph">一旦医院允许，她打算马上回去工作。</div>
+<div class="article-paragraph">“那是国家救了我吧，”她说。“然后我觉得我也可以回报一下国家。”</div>
+<div class="article-paragraph"> <b>死亡</b></div>
+<div class="article-paragraph"> <i>住院后第35天</i></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在夏思思的办公桌上，她的同事们留下了1000只纸鹤，在中国这是希望与祝福的象征。纸鹤翅膀上写着这样的寄语：“一路走好，我们将同生命接力，战胜疫情。”" data-src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-13/c00coronavirus-death-life-13-master1050.jpg" src="https://static01.nyt.com/images/2020/03/16/multimedia/c00coronavirus-death-life-13/c00coronavirus-death-life-13-master1050.jpg"/></div><figcaption><span>在夏思思的办公桌上，她的同事们留下了1000只纸鹤，在中国这是希望与祝福的象征。纸鹤翅膀上写着这样的寄语：“一路走好，我们将同生命接力，战胜疫情。”</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph">夏思思被紧急送往重症监护室，是在2月7日凌晨3点过后。医生首先给她插管。随后，院长紧张召集了几位市里的专家，包括中南医院重症医学科主任彭志勇。</div>
+<div class="article-paragraph">他们给武汉每家大医院打电话借人工肺(Ecmo)来抢救。</div>
+<div class="article-paragraph">夏思思恢复了心跳。但她肺里的感染太过严重，已经衰竭。她的大脑严重缺氧，造成了不可逆转的损伤。很快，她的肾脏停止了工作，医生不得不让她接受连续不断的透析。</div>
+<div class="article-paragraph">“脑袋是司令部，”彭志勇说。“她没办法指挥其他器官，其他器官都会衰竭的，只是时间问题。”</div>
+<div class="article-paragraph">夏思思陷入了昏迷。她于2月23日去世。</div>
+<div class="article-paragraph">对于夏思思在病情似乎好转后却去世的原因，彭志勇仍然感到困惑。就像很多医务人员一样，她的免疫系统可能因为持续暴露而受到损害。或许她遭遇了专家们所说的“细胞因子风暴”，免疫系统对一种新病毒的反应会导致肺部被白细胞和积液吞没。或许她是死于器官缺氧。</div>
+<div class="article-paragraph">在夏思思的家里，儿子家宝以为妈妈还在工作。电话铃一响，他就想从外婆手里把电话抢走，嘴里喊着：“妈妈，妈妈。”</div>
+<div class="article-paragraph">她的丈夫吴石磊不知道怎么跟家宝说。他自己都还没接受她的离世。他们在医学院认识，是彼此的初恋。他们原本约定要白头偕老。</div>
+<div class="article-paragraph">“我很爱她，”他说。“她现在没了，我不知道以后的日子该咋办，只能硬挺着。”</div>
+*
+面对流行病危机，“政治至上”的后果是什么？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">在流行病临近时，政治领导人试图<a href="https://www.nytimes.com/2020/02/27/us/politics/us-coronavirus-pence.html">审查卫生官员的言论</a>、<a href="https://www.nytimes.com/2020/02/28/us/politics/cpac-coronavirus.html">淡化感染风险</a>的事情，在许多国家都多次发生。</div>
+<div class="article-paragraph">历史学家和担任过卫生官员的人说，这种策略几乎从未奏效过。而且，如果死亡人数超过领导者漫不经心的预测数字的话，最终将毁掉领导者本人的声誉。<br/></div>
+<div class="article-paragraph">特朗普政府上周为改变应对冠状病毒暴发的混乱局面所进行的重组努力，就落入了这种模式。公众被告知，白宫将负责协调所有相关信息，在政府任职的科学家将不能出现在电视上的脱口秀节目中，把他们脑子里想的随便说出来。</div>
+<div class="article-paragraph">专家警告，这可能不是一个取胜的策略。股票市场常会对谣言做出反应，联邦储备银行也许抵挡不住政治压力。但是，与宣传抵挡不住飓风和海啸一样，有利于政府的陈述不能让人对病原体免疫。</div>
+<div class="article-paragraph">随着病原体横扫社区，有多少人能在疫情过后幸存下来，常常取决于一个国家的领导人能否正确地看到早期的危险苗头，做出机智的反应，而且在威胁发生变化时灵活地调整策略。<br/></div>
+<div class="article-paragraph">要做到这一点，必须将医学专业知识置于竞选信息之上。中国已经遭受了政治至上的后果。</div>
+<div class="article-paragraph">身处新冠肺炎暴发中心的武汉市官员一开始曾宣称，这种与当地一个海鲜市场有关的致命肺炎<a href="https://cn.nytimes.com/china/20200109/china-pneumonia-outbreak-virus/">不存在人传人现象</a>。</div>
+<div class="article-paragraph">谎言揭穿后，当地官员<a href="https://cn.nytimes.com/business/20200217/wuhan-coronavirus-journalists/" title="Link: https://cn.nytimes.com/business/20200217/wuhan-coronavirus-journalists/">传讯了</a>最早说出真相的医生，并对他们<a href="https://cn.nytimes.com/business/20200123/virus-corona/">进行了威胁</a>。随着医院里的病人越来越多，武汉人开始大批死亡，其他城市也开始出现感染病例。<br/></div>
+<div class="article-paragraph">中国政府试图用国家控制的媒体来<a href="https://www.nytimes.com/2020/02/05/world/asia/coronavirus-china.html">减少负面新闻</a>。结果是，通常不敢批评领导人的中国民众<a href="https://cn.nytimes.com/china/20200208/china-coronavirus-doctor-death/">开始发出批评的声音</a>，而且声音不小。<br/></div>
+<div class="article-paragraph">最后，在<a href="https://cn.nytimes.com/china/20200227/china-coronavirus-propaganda/">强烈的批评刺激下</a>，中国国家主席习近平不得不说，他早就采取了应对疫情的行动，尽管批评人士指出，中国最初的响应拙笨无能。<br/></div>
+<div class="article-paragraph">现在新冠病毒已经登陆美国，类似的事情可能会在这里发生。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="从左至右，公共卫生局局长杰罗姆·亚当、副总统迈克·彭斯和卫生与公众服务部部长亚历克斯·阿扎二世视察该部的运营中心。" data-src="https://static01.nyt.com/images/2020/02/28/science/28VIRUS-MESSAGE3/merlin_169666128_acf3be5e-d650-4adb-b540-321933ef5930-master1050.jpg" src="https://static01.nyt.com/images/2020/02/28/science/28VIRUS-MESSAGE3/merlin_169666128_acf3be5e-d650-4adb-b540-321933ef5930-master1050.jpg"/></div><figcaption><span>从左至右，公共卫生局局长杰罗姆·亚当、副总统迈克·彭斯和卫生与公众服务部部长亚历克斯·阿扎二世视察该部的运营中心。</span> <cite>Al Drago for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">人们常把抗击流行病比作战争。最好由有作战经验、深刻了解军事史的将军来领导。公众在危机中寻找可信赖的领导时，领导者的举止和可信度是关键。</div>
+<div class="article-paragraph">专家们说，特朗普关于新冠病毒的首个新闻发布会以围绕着<a href="https://www.politico.com/news/2020/02/27/white-house-coronavirus-response-debbie-birx-117893" rel="noopener noreferrer" target="_blank">谁来负责</a>的<a href="https://www.washingtonpost.com/politics/trump-downplays-risk-places-pence-in-charge-of-coronavirus-outbreak-response/2020/02/26/ab246e94-58b1-11ea-9000-f3cffee23036_story.html" rel="noopener noreferrer" target="_blank">尴尬争吵</a>告终，这与应该的做法完全相反。<br/></div>
+<div class="article-paragraph">同样不确定的是，副总统办公室是否会过滤信息，或在多大程度上允许<a href="https://share.america.gov/zh-hans/leads-u-s-fight-hiv-aids/" rel="noopener noreferrer" target="_blank" title="Link: https://share.america.gov/zh-hans/leads-u-s-fight-hiv-aids/">黛博拉·比克尔斯博士</a>(Dr. Deborah L. Birx)来领导抗疫，她直到最近一直是美国负责抗击艾滋病的国际协调官员。</div>
+<div class="article-paragraph">比尔克斯有在非洲的长期临床经验，是总统防治艾滋病紧急救援计划负责人，该计划掌握着数十亿美元的款项。</div>
+<div class="article-paragraph"><b></b>但她不是一位公众熟悉的人物，也没有与州政府和地方政府的数百个卫生部门合作的历史，而这次抗疫的前线部队正是这些卫生部门。</div>
+<div class="article-paragraph">“至关重要的是，专家要告诉公众他们知道什么，什么时候知道的，”美国疾病控制预防中心前主任托马斯·R·弗里登(Thomas R. Frieden)博士说。<br/></div>
+<div class="article-paragraph">“这是赢得并保持公众信任的唯一办法，公众信任对整个社会团结一致抗击疫情必不可少。”<br/></div>
+<div class="article-paragraph">上周五，代表着200万名医务工作者的服务业雇员国际工会(Service Employees International Union)的主席指责特朗普淡化疫情的严重性，将工会会员的健康置于危险之中。</div>
+<div class="article-paragraph">工会主席玛丽·凯·亨利(Mary Kay Henry)说，政府“必须立即改变做法，让公共卫生专家来领导全国协调一致的应对行动”。<br/></div>
+<div class="article-paragraph">医学团体谴责了不让科学家发声或把他们排挤在外的主意。<br/></div>
+<div class="article-paragraph">“在科学家和公众之间引入政治筛子，破坏了公众了解他们面临的健康威胁真相的权利，”全球健康大学联盟(Consortium of Universities for Global health)执行主任基思·马丁(Keith Martin)博士说。</div>
+<div class="article-paragraph">以前的美国总统也曾试图压制有关疾病的坏消息，但都没有成功。<br/></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1918年流感大流行期间，西雅图的警察。" data-src="https://static01.nyt.com/images/2020/02/28/science/28VIRUS-MESSAGE2/merlin_169725867_6968c22f-25ae-4724-a724-272728a2fc3b-master1050.jpg" src="https://static01.nyt.com/images/2020/02/28/science/28VIRUS-MESSAGE2/merlin_169725867_6968c22f-25ae-4724-a724-272728a2fc3b-master1050.jpg"/></div><figcaption><span>1918年流感大流行期间，西雅图的警察。</span> <cite>Time Life Pictures/National Archives/The LIFE Picture Collection, via Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">密歇根大学医学院的医学史学者霍华德·马克尔(Howard Markel)博士说，1918年初，伍德罗·威尔逊总统让手下的工作人员对美国军队中蔓延的毁灭性流感保持沉默。</div>
+<div class="article-paragraph">“他们采取了预防措施，比如戴口罩，但威尔逊命令官员不要谈论这件事，”马克尔说。“但流感传播得太快了，试图掩盖它是愚蠢的。”<br/></div>
+<div class="article-paragraph">尽管那场全球大流行的疾病首先打击的是在欧洲的美国、英国、法国和德国的军队，却被称为“西班牙流感”——因为战地记者受到军事审查。年轻士兵大量死亡的报道被认为有损士气。<br/></div>
+<div class="article-paragraph">在中立的西班牙，报纸可以自由地在头版报道死亡。<br/></div>
+<div class="article-paragraph">马克尔指出，控制信息的努力在1892年的德国汉堡也失败了。汉堡的商业和市政领导相互勾结，试图隐瞒霍乱流行的消息。</div>
+<div class="article-paragraph">但消息走漏了出去，当来自德国主要港口汉堡的船只试图在美国靠岸时，因为受怀疑而遭到了拒绝。<br/></div>
+<div class="article-paragraph">在20世纪80年代早期，出现了一种神秘的疾病：这种病的患者慢慢地消瘦下去，尽管采取了各种办法挽救，但他们还是死了。没有人知道病因，它又是如何传播的，以及什么人（如果有的话）不会得病。</div>
+<div class="article-paragraph">因为最初受这种病打击最严重的是那些没有政治权力的群体，包括男同性恋者、血友病患者、海洛因上瘾者，以及海地人，所以美国总统罗纳德·里根有好几年甚至不承认疫情的存在，这个最初被称为“与同性恋有关的免疫疾病”，最终被命名为“获得性免疫缺陷综合征”（Acquired Immune Deficiency Syndrome，简称AIDS）。</div>
+<div class="article-paragraph">但旧金山等城市的公共卫生官员不得不面对这个疾病，他们意识到必须采取的政策意味着，他们要询问患者一些极为侵犯隐私的问题，包括他们的性取向和所有性伙伴的名字。<br/></div>
+<div class="article-paragraph">“你能想像会发生什么吗，如果人们认为我说的一切都先要通过政治审查的话？”当时在旧金山市卫生部门担任疾病控制主任的迪安·埃肯伯格(Dean Echenberg)博士说，他那时几乎每天都召开新闻发布会。</div>
+<div class="article-paragraph">“正常情况下，获得人们的信任已经很难，”他说。“对我们来说，提供有关疾病的信息，与检测和追踪接触者一样重要。”</div>
+<div class="article-paragraph">当被问及是否曾被要求查禁或为满足政府需求修改有关疾病的信息时，曾在市长迈克尔·R·布隆伯格(Michael R. Bloomberg)手下担任纽约市卫生专员的弗里登回答说：“从未有过。我和迈克尔一起工作时从未有过。在埃博拉上从未有过。在全球大流行的流感上从未有过。而且从未为股市这样做过。”</div>
+*

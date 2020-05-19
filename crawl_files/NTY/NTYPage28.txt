@@ -1,0 +1,233 @@
+穿山甲是新型冠状病毒的中间宿主吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">在寻找中国新冠病毒流行病的动物源或其它源头的过程中，穿山甲成为最新候选者，这种身披鳞甲、以蚂蚁为食的哺乳动物已是濒危物种，被大量进口到中国用作食物和药材。</div>
+<div class="article-paragraph">穿山甲的市场非常庞大，据信<span>是<a href="https://www.nytimes.com/2015/03/31/science/a-struggle-to-save-the-scaly-pangolin.html" title="Link: https://www.nytimes.com/2015/03/31/science/a-struggle-to-save-the-scaly-pangolin.html">地球上被非法贩卖最多的哺乳动物</a>。所有四种亚洲穿山甲都</span>在极危状态，目前还不清楚被认定为病毒宿主对穿山甲来说是好是坏。这可能会减少穿山甲贸易，也可能引发对它们的强烈抵触。</div>
+<div class="article-paragraph">目前也还不清楚穿山甲是否真的将这种新病毒传给了人类。蝙蝠仍被认为是病毒的原始宿主。如果穿山甲也与疫病传播有关，它们将扮演中间宿主的角色。到目前为止，科学研究只是提示性而不是结论性的，由于这种病毒引发的强烈关注，一些断言在经过传统科学评审程序之前就已经公开了。</div>
+<div class="article-paragraph">这些主张引起了动物到人类疾病传播专业研究者的沮丧，因为它们缺乏公开的数据以及经过其他科学家审核肯定的研究方法陈述。</div>
+<div class="article-paragraph">当科学家们正等待基因研究的细节时，在更平凡但同样重要的疾病路径追踪过程中，却存在一个巨大空白。为了确定这种新病毒究竟经历了什么，研究者需要明确武汉市场上出现过哪些可能对疾病传播起到重要作用的动物。</div>
+<div class="article-paragraph">该病毒在与市场有关的人和市场环境中被发现——比如在表面或在笼子里。但一些早期病例，包括可能是第一起病例，都出现在与市场无关的人身上。纽约生态健康联盟(EcoHealth Alliance)的科学与推广副总裁乔·爱普斯坦(Jon Epstein)表示，这意味着病毒从动物到人类的第一次跃迁可能并没发生在市场里。人们可能在另一个地方或更早的时候从动物身上感染了这种疾病，而可能有尚未了解的病例在市场感染并传给了其他人。</div>
+<div class="article-paragraph">更复杂的是，武汉市场的动物似乎很快就被处理掉了，尽管来自中国的报道称，这些动物样本的新冠病毒检测结果呈阴性。</div>
+<div class="article-paragraph">“那就是我们的黑匣子，里面有哪些动物，有哪些参与了传播，”爱普斯坦说。</div>
+<div class="article-paragraph"><span>在疫情发生前的一份报告早已显示，穿山甲可能是人类感染冠状病毒的一个源头。中国研究者在<a href="https://www.mdpi.com/1999-4915/11/11/979" rel="noopener noreferrer" target="_blank">去年10月发表的一份报告</a>中记录了穿山甲可能携带多种冠状病毒。他们将分析得到的基因序列发布到公共数据库以供研究。</span></div>
+<div class="article-paragraph"><span>而在周五，<a href="http://www.xinhuanet.com/english/2020-02/07/c_138764153.htm" rel="noopener noreferrer" target="_blank">新华社报道称</a>华南农业大学(South China Agricultural University)的研究者在穿山甲</span>身上发现了一种病毒，与感染了四万多人、致死超过900人（截至2月10日24时，死亡人数已达1016人——编注）的新冠病毒有99%的匹配度。这是迄今为止最接近的匹配。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="2月1日在香港葵涌海关大楼验货场举行的新闻发布会上，工作人员在检查缴获的濒危穿山甲的鳞片。" data-src="https://static01.nyt.com/images/2020/02/10/science/10VIRUS-PANGOLIN02/merlin_150039747_691d828b-cbc4-45b4-ad6d-1af21e97ee28-master1050.jpg" src="https://static01.nyt.com/images/2020/02/10/science/10VIRUS-PANGOLIN02/merlin_150039747_691d828b-cbc4-45b4-ad6d-1af21e97ee28-master1050.jpg"/></div><figcaption><span>2月1日在香港葵涌海关大楼验货场举行的新闻发布会上，工作人员在检查缴获的濒危穿山甲的鳞片。</span> <cite>Anthony Wallace/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph">报道中没有说这一发现是决定性的，但这个结果意味着“穿山甲或是病毒的潜在中间宿主”。该领域的科学家正迫切等待研究结果的发表，但在此之前，他们不可能对其进行评估。</div>
+<div class="article-paragraph"><span>此外，<a href="http://virological.org/t/ncov-2019-spike-protein-receptor-binding-domain-shares-high-amino-acid-identity-with-a-coronavirus-recovered-from-a-pangolin-viral-metagenomic-dataset/362" rel="noopener noreferrer" target="_blank">Virological网站上的一篇文章</a>指出，来自蝙蝠的冠状病毒可能与来自穿山甲的冠状病毒重组，形成这一新冠病毒。</span></div>
+<div class="article-paragraph"><span>美国贝勒医学院(Baylor College of Medicine)的约瑟夫·彼得罗西诺(Joseph Petrosino)说，在他实验室工作的生物信息专家马修·王（Matthew Wong，音）发布了他的分析报告。彼得罗西诺表示，他相信这份报告不久就会在<a href="https://www.biorxiv.org/" rel="noopener noreferrer" target="_blank">bioRxiv</a>上发表，他和同事们已经将其提交给了一家同行</span>评审的期刊。</div>
+<div class="article-paragraph">他说，基本上，对过去12个月发布的基因组数据——其中最重要的是去年10月发布的穿山甲报告——的挖掘表明，穿山甲中冠状病毒的一部分与新冠病毒中的一部分几乎完全相同。这部分包含了病毒入侵人体细胞的方式。因此，他们提出蝙蝠病毒与穿山甲病毒可能已经结合，或许在野生穿山甲中，或许在其它动物中。</div>
+<div class="article-paragraph">彼得罗西诺说，他在期待开始同行评审程序，但外界对此新病毒的强烈关注使公开讨论在某种程度上已经不可避免。他说，Virological网站像是“极客的Twitter”，一般不是会产生新闻的地方<span>。南非新闻网站<a href="https://www.dailymaverick.co.za/article/2020-02-07-coronavirus-source-found-in-pangolin-meat/" rel="noopener noreferrer" target="_blank">Daily Maverick</a></span>最早报道了他的实验室的研究。</div>
+<div class="article-paragraph">这些在另一种语境下的早期假设或初步发现的可能性，如今也吸引了全球的注意。进行濒危物种分类的国际组织CITES在Twitter上表示，可能是穿山甲把冠状病毒传染给了人类。</div>
+<div class="article-paragraph">研究过SARS和MERS病毒的澳大利亚生态健康联盟科学和政策顾问休姆·菲尔德(Hume Field)对此做出了回应，他表示：</div>
+<div class="article-paragraph">“我很欣赏CITES对穿山甲和破坏性非法贸易的真诚关注，但企图通过宣传这篇未经证实的新闻报道来推动自己的目标，只会增加混乱和谣言。”</div>
+<div class="article-paragraph">公共数据库让任何地方的任何实验室都能够调查分析有关蝙蝠和穿山甲冠状病毒的基因序列，并推测可能发生了什么。</div>
+<div class="article-paragraph">德州农工大学(Texas A&amp;M University)生物系主席本杰明·诺伊曼(Benjamin Neumann)是在实验室里观察这些序列的科学家之一，他与其它研究这些序列的科学家进行了讨论。“现在世界各地的实验室都在进行类似的分析，”他说。</div>
+<div class="article-paragraph">但他说，“虽然与穿山甲相关的病毒似乎与人类感染的新冠病毒有关联，但这还不是可以告诉我们2019-nCoV如何起源的确凿证据。”2019-nCoV就是引发这场疫情的病毒名称。</div>
+<div class="article-paragraph">他指出，穿山甲可能感染了与人类相同的病毒，但只是另一个受害者，而不是源头。</div>
+<div class="article-paragraph">确定病毒从动物传播到人类需要更多信息，爱普斯坦说。</div>
+<div class="article-paragraph">他表示，“找到在接触穿山甲或其它动物之前是健康的人，才能有确凿证据。他们接触了动物，之后被感染了，而感染他们的病毒也存在于他们接触过的动物身上。”</div>
+<div class="article-paragraph"><span>巧合的是，这周六，也就是2月15日，正是<a href="https://www.pangolins.org/" rel="noopener noreferrer" target="_blank">世界穿山甲日</a>。</span></div>
+*
+新冠疫情下，亚裔美国人经历了什么？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">芝加哥——不久前的一个下午，在芝加哥唐人街，一串串挂在道路两旁的红底金字喜庆灯笼在空中摇曳，但人行道上没有几个行人。</div>
+<div class="article-paragraph">林记兰州手拉面(Slurp Slurp Noodles)的一名女服务员说，这里的餐桌不像以前那样，在午餐时坐满了游客。一名帮助放学儿童过马路的协管员口袋里放着一枚口罩，准备在觉得不安全时戴上。</div>
+<div class="article-paragraph">尽管<a href="https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus.html" title="Link: https://www.nytimes.com/2020/02/14/world/asia/china-coronavirus.html">不明原因的新型冠状病毒</a>在全球迅速蔓延，造成了1100多人死亡（其中大多数在中国），但美国迄今尚未受到病毒的太大影响，国内只有<a href="https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html" title="Link: https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html">15例确诊病例</a>。大多数美国人照常过着自己的生活，他们自信地认为，对这种主要是在国外流行的疾病没什么好害怕的。</div>
+<div class="article-paragraph">但对一小部分人来说，包括那些来自中国或经常去中国旅行的人，以及负责抗击病毒的卫生工作者们，他们的生活已经被颠倒。数百名曾住在武汉的美国人目前被隔离在军事基地，焦虑不安地等着隔离期的结束。许多在美国的亚裔美国人感受到了令人不安的公众审视，他们注意到，仅仅一声咳嗽或一个喷嚏就能把周围的人吓跑。</div>
+<div class="article-paragraph">“他们的反应不是说‘保佑你’或‘你没事吧’，”亚利桑那州立大学大三学生、20岁的艾瑞莎·邓(Aretha Deng)说，“而是马上进入恐慌状态。”<br/></div>
+<div class="article-paragraph">对新冠病毒暴发的反应各种各样。大学校园里的教学和聚会照常进行，只是那些从中国回来的学生被要求自我隔离两周。芝加哥和纽约的市领导上周专门去了各自城市的唐人街，鼓励游客光顾生意受到影响的餐馆和商店。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="东北大学生物和社会技术系统建模实验室用一张图预测冠状病毒从武汉传播开来的情况。" data-src="https://static01.nyt.com/images/2020/02/17/us/17CORONAVIRUS-MOOD2/merlin_168864669_f3cde040-a9f9-4037-af8f-c44c4e2dd54d-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/us/17CORONAVIRUS-MOOD2/merlin_168864669_f3cde040-a9f9-4037-af8f-c44c4e2dd54d-master1050.jpg"/></div><figcaption><span>东北大学生物和社会技术系统建模实验室用一张图预测冠状病毒从武汉传播开来的情况。</span> <cite></cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="波士顿，写在亚历山德罗·维斯皮尼亚尼(Alessandro Vespignani)办公室窗户上的笔记。" data-src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood04/merlin_168864687_1ba4e2e7-6172-4f4a-aeec-c82711020319-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood04/merlin_168864687_1ba4e2e7-6172-4f4a-aeec-c82711020319-master1050.jpg"/></div><figcaption><span>波士顿，写在亚历山德罗·维斯皮尼亚尼(Alessandro Vespignani)办公室窗户上的笔记。</span> <cite>Katherine Taylor for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">芝加哥有着美国最繁忙的机场，上个月，这里发出了警告。<a href="https://www.nytimes.com/2020/01/24/health/chicago-coronavirus-cdc.html" title="Link: https://www.nytimes.com/2020/01/24/health/chicago-coronavirus-cdc.html">一名女子去过中国后感染了新冠病毒</a>，并将病毒传染给了配偶，这是美国的首例人际传播。即使这对夫妇在郊区的一家医院治愈出院后，芝加哥各个地方的焦虑迹象仍未消失：奥黑尔国际机场的旅客中，戴口罩的人看来比平时多了不少；在位于芝加哥城南的唐人街，店铺贴出了禁止最近去过中国的人进店的告示。（一些芝加哥人在Twitter上冷冷地指出，HBO正在该市现场<a href="https://news.wttw.com/2020/02/06/eerie-coincidence-hbo-s-flu-pandemic-post-apocalyptic-series-station-eleven-filming" rel="noopener noreferrer" target="_blank">拍摄</a>根据2014年的小说《十一号站台》改编的电视剧，这部小说讲述的是受全球流感大流行重创的世界末日到来后的故事。）</div>
+<div class="article-paragraph">在旧金山，最近来自中国的移民说，他们为仍在中国的亲人所面临的非常真实的健康威胁担心，同时还要在美国的日常生活中面对他人的恐惧。在旧金山一家非营利组织从事环境研究的谢一豪（音）1月30日早上从老家兰州飞回了美国，正巧赶在了航班取消之前。</div>
+<div class="article-paragraph">虽然兰州离疫情中心武汉很远，但他在美国的同事们认为，他最好14天不来上班。他说，他理解。<br/></div>
+<div class="article-paragraph">回来后，他去他家附近的自然保护区走了一圈，以平静自己的心情。他说，去超市时，他能感觉到陌生人打量他的眼光。</div>
+<div class="article-paragraph">“有几个人用奇怪的眼神看我，”他说。“我不认为他们有恶意或敌意，但他们像是在问，‘你为什么戴口罩——你生病了吗？’”<br/></div>
+<div class="article-paragraph">旧金山居民罗伯特·李(Robert Li)上周在一家计算机店里看手机时，无意中听到一名员工与一名顾客谈论疫情。“‘如果你生吃蝙蝠，你当然会感染冠状病毒，’”他记得听到那名员工这样说。</div>
+<div class="article-paragraph">“他们其实是在取笑亚洲人，”身为华裔的李先生说。“说中国人什么都吃，是种族主义的老生常谈。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在旧金山从事环境研究的谢一豪（音）从中国返回后，没有立即回办公室上班。" data-src="https://static01.nyt.com/images/2020/02/17/us/17CORONAVIRUS-MOOD3/merlin_168876078_7bef8885-6ea2-4cd7-b8e2-354d17da4485-master1050.jpg" src="https://static01.nyt.com/images/2020/02/17/us/17CORONAVIRUS-MOOD3/merlin_168876078_7bef8885-6ea2-4cd7-b8e2-354d17da4485-master1050.jpg"/></div><figcaption><span>在旧金山从事环境研究的谢一豪（音）从中国返回后，没有立即回办公室上班。</span> <cite>Jason Henry for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">美国1882年通过的《排华法案》(Chinese Exclusion Act)曾经在实际上一度禁止来自中国的移民，该法案是第一个针对特定族群的反移民法。<br/></div>
+<div class="article-paragraph">1965年，美国放宽了对中国移民的限制后，美国的华人人口开始大幅增长，并在1980年后出现了爆炸性增长。据皮尤研究中心(Pew Research Center)的数据，1980年时，住在美国的中国移民还不到50万，现在已有近500万，主要集中在纽约、洛杉矶、旧金山和加州的圣何塞。</div>
+<div class="article-paragraph">冠状病毒暴发之前，与中国的贸易战已经给一些人带来了<a href="https://www.nytimes.com/2020/01/06/business/economy/trade-war-tariffs.html">不确定性和经济担忧</a>。<br/></div>
+<div class="article-paragraph">“如果你已经习惯了对中国或中国人担心，（疫情暴发）又给了你一个（担心的）理由，”文森特·潘(Vincent Pan)说，他是总部设在旧金山的民权组织“支持平权华人”(Chinese for Affirmative Action)的联合执行主任，该组织呼吁加州政府部门设立热线，收集与新冠病毒有关的欺凌或歧视信息。</div>
+<div class="article-paragraph">“疾病是使一群人对另一群人反目的一个强有力的方法，”他说。“从历史上看，疾病一直是将某个群体‘异己化’的快速方法。这里面有一个微妙的平衡，因为我们也不想让社会降低公共卫生问题的严重性。”</div>
+<div class="article-paragraph">美国各地的卫生官员最近几周都在小心翼翼地发出警告：在试图保护公众的同时，不引起不必要的恐慌和仇外情绪。自今年1月以来，地方、州和联邦政府卫生官员一直在重复一个信息，那就是，在美国感染冠状病毒的风险仍然非常低。</div>
+<div class="article-paragraph">“族裔对新型冠状病毒的传播没有影响，”威斯康辛州卫生官员珍妮·艾尔斯(Jeanne Ayers)上周在宣布该州首府麦迪逊的一名居民感染了新冠病毒之后说道。她在解释公共卫生官员认为该州首例感染者是如何被传染时说，“有影响的是旅行史和与患者的直接密切接触。”</div>
+<div class="article-paragraph">因为美国联邦当局在几周前就决定大幅减少通往中国的航班，并将一小批从湖北回来的旅行者在军事基地隔离，让其他最近去过中国的人在家里自行隔离，所以到目前为止，冠状病毒在美国的流行范围很有限。<br/></div>
+<div class="article-paragraph">被隔离的美国人说，他们对自己行动受限制持矛盾的态度。一些人说，他们有点无聊和不耐烦，并越来越感到焦虑和孤独，但他们也理解公众的恐惧。<br/></div>
+<div class="article-paragraph">加州圣贝纳迪诺的汽车修理工杰弗瑞·何(Jeffrey Ho)上周乘坐国务院安排的飞机从他妻子的老家湖北回到了美国。目前，他和同机从武汉飞回的逾170名乘客正在旧金山东北部的特拉维斯空军基地接受隔离检疫。</div>
+<div class="article-paragraph">何先生说，一方面，他并不责怪人们害怕感染病毒。</div>
+<div class="article-paragraph">他没离开疫情暴发中心湖北省时，少数偶尔出门遛遛的人一般都与他人保持着距离。<br/></div>
+<div class="article-paragraph">“他们担心自己的生命，”何先生说。“人们对任何离开他们公寓楼的人都持怀疑态度。”<br/></div>
+<div class="article-paragraph">他说，另一方面，对新冠病毒的恐惧在美国带有种族歧视的色彩。“我觉得我也许会成为潜在的目标，”他说。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="许多在美国的亚裔美国人感受到了令人不安的公众审视，他们注意到，仅仅是一声咳嗽或一个喷嚏就能把周围的人吓跑。" data-src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood01/00coronavirus-mood01-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood01/00coronavirus-mood01-master1050.jpg"/></div><figcaption><span>许多在美国的亚裔美国人感受到了令人不安的公众审视，他们注意到，仅仅是一声咳嗽或一个喷嚏就能把周围的人吓跑。</span> <cite>David Kasnic for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="自从冠状病毒暴发以来，芝加哥唐人街的生意变差了。" data-src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood02/merlin_168857721_4c5dc219-aea8-4172-8ab1-29628cffd507-master1050.jpg" src="https://static01.nyt.com/images/2020/02/13/us/00coronavirus-mood02/merlin_168857721_4c5dc219-aea8-4172-8ab1-29628cffd507-master1050.jpg"/></div><figcaption><span>自从冠状病毒暴发以来，芝加哥唐人街的生意变差了。</span> <cite>David Kasnic for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph">父母是香港人、本人现居纽约的商务顾问艾琳·黄(Eileen Wong)上周和一名同事从费城乘坐一趟拥挤的火车回家，在90分钟旅程中，她一直站在过道上。</div>
+<div class="article-paragraph">坐在附近的一名女子把头从手机上抬起来后，倒吸了一口凉气。<br/></div>
+<div class="article-paragraph">“她说，‘天哪！’然后马上用外套把自己遮盖起来，”黄女士说。<br/></div>
+<div class="article-paragraph">黄女士的同事低头看见该女子在谷歌上检索：“冠状病毒有多致命？”<br/></div>
+<div class="article-paragraph">黄女士在曼哈顿居住的地方住着各个族裔的人，她从未有过自己与别人不一样的感觉。<br/></div>
+<div class="article-paragraph">“我在这里长大，我没有口音，”黄女士说。“我也是美国人——为什么这种事会发生在我身上？”</div>
+<div class="article-paragraph">“这件事让我开了眼界，”黄女士说。“我们没有表现出任何症状，比如打喷嚏或咳嗽，所以那只是根据长相做出的判断。”</div>
+*
+新冠疫情再引反思，专家呼吁全面禁止野生动物交易
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">中国的冠状病毒疫情已造成至少7.3万人感染，至少2000人死亡，引发了全球卫生紧急事件。但人类并非唯一被感染的物种。</div>
+<div class="article-paragraph">冠状病毒攻击各种鸟类和哺乳动物。这次的新病毒似乎是在中国武汉的一个海鲜和肉类市场从野生动物传播到人类身上的，在那里，活物遭到屠宰，并作为食物出售。</div>
+<div class="article-paragraph">这样的故事人们并不陌生。始于中国的SARS也是由冠状病毒引起的，它跟人们食用一种叫果子狸的猫科动物有关。MERS疫情也是始于一种冠状病毒，它是从中东的骆驼传到人类身上的。</div>
+<div class="article-paragraph">在又一次的冠状病毒疫情中，环保主义者看到了公共卫生方面的一个教训：若想阻止始于动物的流行病，就必须停止全球野生动物交易。</div>
+<div class="article-paragraph">“这个问题不再仅仅是一个环保议题，”国际爱护动物基金会(International Fund for Animal Welfare)亚洲区主任格蕾丝·盖加布里埃尔(Grace Ge Gabriel)说，“这是一个公共卫生议题，一个生物安全议题和一个国家安全议题。”</div>
+<div class="article-paragraph">中国是非法动物交易的关键一环。随着冠状病毒疫情的扩大，就在上个月，北京的中央政府发布了一项<a href="https://www.thepaper.cn/newsDetail_forward_5644252" rel="noopener noreferrer" target="_blank">全国性的临时禁令</a>，禁止一切野生动物交易，包括在市场、餐馆和电商平台上的交易活动。</div>
+<div class="article-paragraph">政府公告警告，各部门将“严肃查处”违规者，并提供举报热线。全国人大常委会周一发表声明，有关部门已经在做立法的起草工作，坚决革除“滥食野生动物的陋习”。</div>
+<div class="article-paragraph">休斯顿大学市中心分校(University of Houston-Downtown)专门研究中国国内政策的东亚政治学副教授李坚强(Peter Li)说，中国民众“愤怒是因为他们了解到，食用野生动物再次造成了全国性的健康危机，同时也是因为，少数野生动物交易的继续存在，劫持了整个国家”。</div>
+<div class="article-paragraph">专家仍未明确是哪种物种将这种正式名称为SARS-CoV-2的新型冠状病毒传给了人类。不过，穿山甲是<a href="https://cn.nytimes.com/health/20200211/pangolin-coronavirus/" title="Link: https://cn.nytimes.com/health/20200211/pangolin-coronavirus/">主要的怀疑对象</a>。</div>
+<div class="article-paragraph">穿山甲是世界上<a href="https://www.jstor.org/stable/26393255?seq=1#_blank" rel="noopener noreferrer" target="_blank">走私数量最大的哺乳动物</a>，其国际贸易是非法行为，在中国国内它也是受到保护的。但在黑市，穿山甲的肉和血被视为美味佳肴，而一些医院和药店里，穿山甲的鳞片被合法用作中药。</div>
+<div class="article-paragraph">不管这次新型冠状病毒的来源是什么，新的野生动物交易禁令来得已晚，无法遏制这次疫情的传播。</div>
+<div class="article-paragraph">野生动物保护协会(Wildlife Conservation Society)的卫生执行主任克里斯蒂安·沃尔泽(Christian Walzer)表示：“既然已经出现了人传人的情况，这个禁令对此次疫情不会起到任何实际作用。”</div>
+<div class="article-paragraph">根据政府公告，该禁令只会持续到“全国疫情解除”。沃尔泽博士等人认为，要降低未来人畜共患疾病的风险，这项禁令必须永久生效。</div>
+<div class="article-paragraph">“否则，我们就会定期进行这样的谈话，”他说。</div>
+<div class="article-paragraph">2003年非典期间，中国颁布了一项范围更小的野生动物贸易禁令。许多环保人士和医学专家，包括<a href="http://www.cas.cn/zt/kjzt/yw/rzdy/200306/t20030624_1711421.shtml" rel="noopener noreferrer" target="_blank">中国科学院的成员</a>，都希望这会是永久性的，但在危机结束后，这种贸易又卷土重来。</div>
+<div class="article-paragraph">“一旦一种疾病传染给人类，所有的反应都是被动的，重点都是人类的健康，”乔治·梅森大学(George Mason University)野生动物生态学家阿隆索·阿吉雷(Alonso Aguirre)博士说。</div>
+<div class="article-paragraph">他还说，危机过后，人们的注意力就会从把疾病传染给人类的交易上转移开。至少30年来，科学家一直呼吁做出永久限制。</div>
+<div class="article-paragraph">“我们永远不会追溯事情发生的源头，”阿吉雷说。</div>
+<div class="article-paragraph"><b>制造新病毒的实验室</b></div>
+<div class="article-paragraph">中国和东南亚是人畜共患病的高发地区。在这类疾病中，自然发生在野生动物体内的病原体通过突变或新的接触途径感染家畜和人类。</div>
+<div class="article-paragraph">生物多样性的丧失，加上森林砍伐率高，增加了这些感染的风险，人类和牲畜接触了野生动物，而且改变了环境，从而有利于疟疾、寨卡病毒和登革热等疾病的传播。</div>
+<div class="article-paragraph">对动物及其器官的需求——用于制作食物或传统中药——将潜在的病原体带向广阔的远方。</div>
+<div class="article-paragraph">但是，总部位于伦敦的非营利组织环境调查署(Environmental Investigation Agency)称，冠状病毒的暴发并没有消除人们对野生动植物的需求。该组织致力于研究环境犯罪以及倡导对其打击。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="在世界各地有超过5500种鸟类、哺乳动物、两栖动物和爬行动物被贩卖，其中许多是受威胁和濒危物种。" data-src="https://static01.nyt.com/images/2020/02/14/science/14virus-wildlife01/merlin_162060264_62c5916a-755a-4a68-8c86-eb34999c8d11-master1050.jpg" src="https://static01.nyt.com/images/2020/02/14/science/14virus-wildlife01/merlin_162060264_62c5916a-755a-4a68-8c86-eb34999c8d11-master1050.jpg"/></div><figcaption><span>在世界各地有超过5500种鸟类、哺乳动物、两栖动物和爬行动物被贩卖，其中许多是受威胁和濒危物种。</span> <cite>Gatha Ginting/Agence France-Presse</cite></figcaption></figure></div>
+<div class="article-paragraph">该组织发现，即使到现在，中国和老挝的一些网上卖家仍在打着治疗冠状病毒的幌子兜售含有犀牛角和其他动物部位的非法中药。有人引用<a href="https://cn.nytimes.com/china/20200206/coronavirus-traditional-chinese-medicine/" title="Link: https://cn.nytimes.com/china/20200206/coronavirus-traditional-chinese-medicine/">中国国家卫健委上月发布的文件，其中列出了以动物为原料的中药</a>作为冠状病毒感染的推荐治疗方法。</div>
+<div class="article-paragraph">英格兰牛津布鲁克斯大学(Oxford Brookes University)的野生生物交易研究人员文森特·奈曼(Vincent Nijman)表示，没人能确切知道全球范围内野生动植物贸易的整体规模，但数量是惊人的——每天有上百万个订单走私交易数百个种类的动物。</div>
+<div class="article-paragraph">去年10月发表在《科学》杂志上的一项研究估计，野生动植物贸易<a href="https://science.sciencemag.org/content/366/6461/71" rel="noopener noreferrer" target="_blank">包括5600个物种，约占世界已知脊椎动物的五分之一</a>。</div>
+<div class="article-paragraph">尽管某些野生动植物贸易是非法的，但许多地下产业却是合法的，往往不受监管，交易不受保护的物种，例如啮齿动物、蝙蝠、蛇和青蛙。亚洲的野生动物贸易对人类健康尤其具有风险，因为这些动物通常是活体运输和出售的。</div>
+<div class="article-paragraph">“即使这种传播极少发生，在这些类型的市场上每天也发生着数百万次的接触，”总部位于弗吉尼亚州的全球咨询服务公司ICF国际(ICF International)的生态学家兼兽医安德烈·戈麦兹(Andres Gomez)说。“这是在玩火。”</div>
+<div class="article-paragraph">活鲜市场是创造新病毒的理想实验室。应激状态下的动物会散发更多的病毒，而且更容易受到感染，加之笼子通常叠放在一起，助长了病毒的暴露。</div>
+<div class="article-paragraph">“一只小鸟的粪便掉落在乌龟上，乌龟的排泄物又落在麝香猫上，”沃尔泽说。“要让新病毒出现，你怎么努力也没有比这更高效。”</div>
+<div class="article-paragraph">奈曼补充说，通常人们也缺乏基本的卫生习惯：“所有种类的肉都用同一块砧板、同一把刀来切。没人洗手。”</div>
+<div class="article-paragraph">市场上种类繁多的物种和人群混杂在一起。更便捷的运输——以及许多本地物种的消失——意味着野生生物是从越来越远的地方带来的。更新奇的物种也常常被引进。</div>
+<div class="article-paragraph">中国已经批准了54种野生物种的商业繁殖和销售，其中包括美洲红狐，澳大利亚斑胸草雀和非洲鸵鸟。</div>
+<div class="article-paragraph">这种多样性反映在新型冠状病毒发源地的武汉市场上。那里的一家肉店出售活的孔雀、老鼠、狐狸、鳄鱼、狼崽、乌龟、蛇、野猪等。</div>
+<div class="article-paragraph">“这家店的广告牌上宣传销售来自70多个物种的足部、血液、肠子和其他身体部位，”国际动物福利基金会（International Fund for Animal Welfare）的加布里尔说。 “太惊人了。”</div>
+<div class="article-paragraph">2003年在广东省，随着SARS的出现，这些商店被暂时关闭。疫情过后，野生动植物的贸易和消费下降了，然而尽管人们呼吁永久禁止，该行业还是在一年左右恢复了。</div>
+<div class="article-paragraph">李坚强说：“中国不应该好了伤疤忘了疼。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="果蝠。" data-src="https://static01.nyt.com/images/2020/02/14/science/14virus-wildlife03/merlin_167560260_f87905be-51c4-442d-9150-ccf838f1381a-master1050.jpg" src="https://static01.nyt.com/images/2020/02/14/science/14virus-wildlife03/merlin_167560260_f87905be-51c4-442d-9150-ccf838f1381a-master1050.jpg"/></div><figcaption><span>果蝠。</span> <cite>Paul Hilton/EPA, via Shutterstock</cite></figcaption></figure></div>
+<div class="article-paragraph">一些专家认为，全面禁止野生动植物贸易既没有必要，也不现实。</div>
+<div class="article-paragraph">“野生生物贸易并不是人们的某种可怕的习惯，也不是什么不该做的糟糕的事情，”纽约市非营利研究小组生态健康联盟(EcoHealth Alliance)主席彼得·达什亚克(Peter Daszak)说。“这是人类文化里根深蒂固的一部分。”</div>
+<div class="article-paragraph">达什亚克说，例如在西方国家，人们经常食用野外捕获的肉，包括鹿肉、兔子和野禽。</div>
+<div class="article-paragraph">他和其他科学家呼吁对某些野生物种进行严格监控的圈养繁殖，而不是完全禁止中国的野生动植物贸易。</div>
+<div class="article-paragraph">奈曼说，其他措施可能包括永久禁止某些高风险物种的贸易，例如蝙蝠，以及引入“一系列常识性的卫生和福利规定”。</div>
+<div class="article-paragraph">其他科学家认为，如果没有全面和永久禁止野生动植物贸易，下一个病毒的出现只是时间问题。</div>
+<div class="article-paragraph">“除非作出改变，否则这还会发生，”戈麦兹谈到当前的冠状病毒流行时说。“我们必须作为一个社会来决定我们是否愿意承受这样的风险，也许下一次的病毒会杀死大多数感染者。”</div>
+<div class="article-paragraph">李坚强指出，中国政府有权永久禁止一切野生动植物贸易。但是他并不觉得这会发生。</div>
+<div class="article-paragraph">他说，该国的野生动植物政策基于“野生动植物是一种可利用的自然资源”的前提，官员们倾向于从经济而非生态的角度看待自然。</div>
+<div class="article-paragraph">禁止野生动植物贸易将需要在根本上作出转变。</div>
+<div class="article-paragraph">“中国政府通过鼓励利用野生动植物给自己制造了一个巨大的麻烦，”李坚强说。“现在，它必须选择是支持少数人的经济利益，还是支持14亿中国人和世界的公共卫生利益。”</div>
+*
+疫情简报：世卫宣布全球大流行；美国对欧洲实施旅行禁令
+<div class="article-paragraph"><i>（</i><i>欢迎</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank" title="Link: https://sso.nytcn.me/email/?source=top-right">点击此处</a>订阅<a href="https://cn.nytimes.com/morning-brief/" title="Link: https://cn.nytimes.com/morning-brief/">新冠病毒疫情中文简报</a></i><i>。</i><i>更多关于疫情的最新消息，欢迎关注时报英文版<a href="https://www.nytimes.com/2020/03/12/world/coronavirus-news.html" title="Link: https://www.nytimes.com/2020/02/13/world/asia/china-coronavirus.html">实时更新报道</a>。）</i></div>
+<div class="article-paragraph"><b>最新消息：</b>美国总统特朗普在周三晚间的全国电视讲话中宣布，美国将自周五开始对欧洲实施旅行禁令，为期30天。英国将不受该禁令影响。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，工作人员准备对华盛顿州柯克兰的生命护理中心进行清洁和消毒。该疗养院已成为美国新冠病毒暴发的中心。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing5/merlin_170353896_47b24f87-e86e-4d6f-899e-f2f307e46e22-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing5/merlin_170353896_47b24f87-e86e-4d6f-899e-f2f307e46e22-master1050.jpg"/></div><figcaption><span>周三，工作人员准备对华盛顿州柯克兰的生命护理中心进行清洁和消毒。该疗养院已成为美国新冠病毒暴发的中心。</span> <cite>Ted S. Warren/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>世卫组织宣布新冠疫情构成全球大流行</b></div>
+<div class="article-paragraph">世界卫生组织官员周三宣布，新冠病毒在全球100多个国家的传播已满足<a href="https://www.nytimes.com/2020/03/11/health/coronavirus-pandemic-who.html">全球大流行</a>疾病的条件，这证实了许多流行病学家数周以来的言论。</div>
+<div class="article-paragraph">此前，世卫组织一直避免使用该词来形容这一流行病，害怕它给人留下这种疾病是不可阻挡的、各国会放弃试图遏制它的印象。该组织在疫情暴发初期曾表示，当疫情达到大流行程度时，它将不再正式宣布，而是更倾向于宣布国际关注的公共卫生紧急事件。</div>
+<div class="article-paragraph">世卫组织总干事谭德赛在日内瓦的一次新闻发布会上说，“大流行不是一个可以随意或轻率使用的词语。”</div>
+<div class="article-paragraph">但是，如今该病毒在六大洲持续传播，并已感染了超过12万人，造成4300余人死亡，这些证据和科学标准证明疫情已达到了大流行的程度。名称本身在很大程度上是象征性的，但公共卫生官员知道，公众将在其中听到危险和风险的信号。</div>
+<div class="article-paragraph">根据世界卫生组织的说法，大流行病被定义为一种意外传播的疾病的区域性暴发。2010年，它把大流行定义为一种影响到很多人的“新疾病的全球传播”。美国疾病预防控制中心说，大流行病是“一种蔓延到几个国家或大洲，通常会影响很多人的传染病。”</div>
+<div class="article-paragraph">自2009年将H1N1流感认定为大流行病以来，世卫组织从未宣布过大流行病。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周，工作人员在威尼斯的里亚托桥附近进行消毒工作。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing-italy/merlin_170337153_4250048b-99ab-4122-aa3f-dd840d14069e-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing-italy/merlin_170337153_4250048b-99ab-4122-aa3f-dd840d14069e-master1050.jpg"/></div><figcaption><span>周，工作人员在威尼斯的里亚托桥附近进行消毒工作。</span> <cite>Marco Sabadin/Agence France-Presse — Getty Images</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>意大利进一步加强封锁，下令关闭店铺</b></div>
+<div class="article-paragraph">由于新冠病毒感染病例和死亡病例飙升，在宣布严格的旅行限制两天后，意大利总理朱塞佩·孔特周三下令关闭全国几乎所有的店铺。</div>
+<div class="article-paragraph">孔特在全国讲话中说，将允许药房、杂货店、银行和公共交通运营，但任何其他不必要的商户，比如餐厅、酒吧、大多数商店、咖啡馆、美容院等，必须关闭以限制传染。</div>
+<div class="article-paragraph">意大利已经实行了在现代民主制国家很难见到的的控制措施，禁止公共集会，并告诉全国6000万人停止除工作和紧急情况以外的旅行。但在意大利和整个欧洲，这种流行病的传播速度让各国只能仓促提出遏制计划。</div>
+<div class="article-paragraph">孔特没有透露新指令何时生效，但是基于自己的判断或对政府命令的预判，许多商户已经关闭。孔特警告说，意大利这一牺牲的好处要在几周后才会显现。</div>
+<div class="article-paragraph">该国周三报告了2300多个新病例，使其总数增加到至少1.2万，目前该国已有827例死亡病例，是仅次于中国的世界第二大疫情暴发地。意大利的病例占欧洲的一半以上。</div>
+<div class="article-paragraph">在整个欧洲，从周二到周三，确诊病例的数量猛增了近四分之一，达到至少2.2万例。法国确诊病例近2300例，西班牙约2200例，德国约1600例。英国、荷兰、瑞典、挪威和瑞士各有至少400例确诊病例。丹麦和比利时则报告了300多例。甚至冰岛这个岛国也未能幸免，约36.4万的人口中有超过80例确诊病例，是全世界人均感染病例数最高的国家之一。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三的纽约证券交易所。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing12/merlin_170367687_fa675b5f-e6a4-48cf-a7e6-eff915e1cdff-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing12/merlin_170367687_fa675b5f-e6a4-48cf-a7e6-eff915e1cdff-master1050.jpg"/></div><figcaption><span>周三的纽约证券交易所。</span> <cite>Richard Drew/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>全球股市再次暴跌，道指进入熊市</b></div>
+<div class="article-paragraph">随着疫情暴发带来的经济威胁日益突出，而大西洋两岸的决策者未能做出积极回应，金融市场<a href="https://www.nytimes.com/2020/03/11/business/economy/markets-plunge-coronavirus.html">周三再次大幅下坠</a>。</div>
+<div class="article-paragraph">标普500指数下跌近5％，抵消了周二的涨幅。该指数现在已从2月19日的高点下跌了19％<b>。</b>道琼斯指数收盘下跌近6％，结束了长达11年的牛市，<a href="https://www.nytimes.com/2020/03/11/business/bear-market-stocks-dow.html">进入熊市</a>。</div>
+<div class="article-paragraph">穆迪分析首席经济学家Mark Zandi表示：“如果特朗普政府和国会无法迅速达成共识，并制定出规模庞大且负责任的一揽子计划，那么衰退似乎是一种现实的可能。”</div>
+<div class="article-paragraph">在欧洲，法兰克福、伦敦和巴黎的主要指数均有下跌，结束了英格兰银行表示将降低利率以帮助英国企业后的早期增长。亚洲股市也呈跌势。</div>
+<div class="article-paragraph">供应链、旅行和娱乐业的中断损害了经济，而石油行业的价格战则加剧了这一情况。</div>
+<div class="article-paragraph">英国政府公布了390亿美元的刺激经济计划，其中包括将65亿美元用于英国脆弱的国民医疗服务体系和其他公共机构。</div>
+<div class="article-paragraph">意大利总理朱塞佩·孔特宣布，意大利政府正在制定一项计划，将斥资约280亿美元应对新冠病毒的紧急情况。意大利是中国以外疫情最严重的国家。但是，最近中国的新增病例减少了，而意大利却在增加。</div>
+<div class="article-paragraph">以色列总理本杰明·内塔尼亚胡宣布支出约28亿美元以应对经济影响。以色列对进入该国的任何人施加了14天的强制隔离，这对旅游业造成严重影响。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周一，西雅图市中心。" data-src="https://static01.nyt.com/images/2020/03/11/us/11virus-briefing02/merlin_170296455_f1d879c0-354d-42fa-982a-62736048f6c4-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/11virus-briefing02/merlin_170296455_f1d879c0-354d-42fa-982a-62736048f6c4-master1050.jpg"/></div><figcaption><span>周一，西雅图市中心。</span> <cite>Grant Hindsley for The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国确诊病例超过1200例，多州加强抗疫举措</b></div>
+<div class="article-paragraph">截至周三，美国新冠病毒感染病例已蔓延至40个州和华盛顿特区，累计确诊病例超过1200例，至少31人死亡。全国各地的官员已开始采取越来越严厉的措施，试图抑制该病毒的传播。</div>
+<div class="article-paragraph">纽约州长周三表示，纽约州和纽约市的大学和学院将从3月19日起转而网络授课，影响波及约70万名学生。其他州的一些学校也已取消了实体授课。</div>
+<div class="article-paragraph">在一名百老汇领位员被测试出新冠病毒呈阳性后，纽约市正试图对前往剧院的公众发出警告，并对剧院进行清洁和消毒工作。</div>
+<div class="article-paragraph">华盛顿州州长颁布禁令，禁止在西雅图地区举行游行、音乐会，节日活动和其他超过250的集会。禁令将生效至3月底。西雅图官员随后决定从周四开始，关闭公立学校两周。华盛顿州已有24人死于新冠病毒。</div>
+<div class="article-paragraph">肯塔基州州长敦促各教会在本周末取消礼拜活动，这在一个宗教氛围浓厚的州是一项重大举措。</div>
+<div class="article-paragraph">“至尊公主号”上的旅客仍在继续下船，这艘邮轮上已有20余人病毒检测呈阳性。截至周二晚间，约有1406人离开了邮轮，进入了为期两周的强制性隔离检疫。</div>
+<div class="article-paragraph">在美国最近宣布的确诊病例中，包括三名在加州圣何塞国际机场工作的运输安全管理局特工。</div>
+<div class="article-paragraph">此外，好莱坞著名影星<a href="https://www.nytimes.com/2020/03/11/business/media/tom-hanks-coronavirus.html"><b>汤姆·汉克斯</b></a>周三表示，他和妻子丽塔·威尔森新冠病毒检测呈阳性。63岁的汉克斯是在澳大利亚准备拍摄一部关于猫王生平的电影时被确诊的。</div>
+<div class="article-paragraph">同样在周三，<b>NBA</b>宣布，将在当日晚间的比赛结束后<a href="https://www.nytimes.com/2020/03/11/sports/basketball/nba-season-postponed-coronavirus.html">暂停本赛季比赛</a>。此前，犹他爵士队一名队员病毒检测呈阳性。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="上周，纽约上下班高峰时间的通勤者。" data-src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/us/09VIRUS-TESTING7/merlin_170077725_29f785e3-608e-431a-b625-8a7d27e54f4f-master1050.jpg"/></div><figcaption><span>上周，纽约上下班高峰时间的通勤者。</span> <cite>Hiroko Masuike/The New York Times</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>美国如何错失了遏制新冠病毒的良机？ </b></div>
+<div class="article-paragraph">在被官员们一次次拒绝之后，西雅图的传染病专家海伦·朱和她同事再也等不下去了，他们未经政府批准就开始进行冠状病毒测试。结果证实了他们最大的恐惧。一个没有近期旅行史的当地青少年的测试中得到了阳性结果。新冠病毒已经神不知鬼不觉地在美国领土立足。<br/></div>
+<div class="article-paragraph">在疫情相对容易控制的暴发初期，由于现行的监管和繁琐程序，联邦政府屡屡错失快速进行大范围病毒测试的机会，海伦·朱的经历就是其中的一例。面对可能是百年一遇的公共卫生突发事件，美国未能做出灵活反应。持续的延误更使官员们无法了解真实的疫情规模，危机急剧恶化。时报记者试图还原了从病毒传播早期到暴发中政府应对失误的全过程，欢迎阅读<a href="https://cn.nytimes.com/usa/20200311/coronavirus-testing-delays/">本文中文版</a>，或收听时报音频节目<a href="https://www.nytimes.com/2020/03/11/podcasts/the-daily/coronavirus-us-testing.html">The Daily</a>对这一话题的报道。</div>
+<div class="article-paragraph"><b>→ “情况会变得越来越糟”</b>：联邦高级卫生官员安东尼·S·福西博士在周三向议员们发出了严厉的警告，称新冠病毒将继续在美国传播，并表示应禁止球迷参加NBA比赛之类的大型集会。他还驳斥了特朗普总统经常重复的说法：新冠病毒并不比流感或以往的H1N1流感暴发更严重。</div>
+<div class="article-paragraph"><b>→ “检测难”问题迫在眉睫：</b>数周以来，医生和实验室一直抱怨没有足够的检测试剂盒来以对出现症状的患者进行检测。这种短缺正在缓解，但实验室警告说，它们用于从鼻拭子提取病毒RNA的耗材——这一耗材并不被包括在试剂盒中——正在减少，这也可能导致检测需求难以被满足。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，工人在德国曼海姆大学医院外组装新冠病毒诊断和测试中心。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing3/merlin_170345874_1ff14418-7b6b-4f56-8356-ba8eea784da7-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing3/merlin_170345874_1ff14418-7b6b-4f56-8356-ba8eea784da7-master1050.jpg"/></div><figcaption><span>周三，工人在德国曼海姆大学医院外组装新冠病毒诊断和测试中心。</span> <cite>Uwe Anspach/DPA, via Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>德国警告最坏情况或将发生</b></div>
+<div class="article-paragraph">德国总理默克尔周三表示，新冠病毒很可能会感染德国<a href="https://www.nytimes.com/2020/03/11/world/europe/coronavirus-merkel-germany.html">三分之二的人口</a>。</div>
+<div class="article-paragraph">不过，与她一起出席发布会的政府首席医学顾问Lothar Weiler补充说：“我们不知道这种情况多快会发生。”该国一位著名病毒学家最近表示，可能要花一两年甚至更长的时间，才能感染这么多人。</div>
+<div class="article-paragraph">默克尔传达的信息的核心是，德国人应采取预防措施，以确保卫生系统能够处理大量可能重病的人。她敦促人们尽可能留在家里。</div>
+<div class="article-paragraph">“我们如何应对至关重要，”默克尔说。 “我们在与时间赛跑。”</div>
+<div class="article-paragraph">目前，柏林、慕尼黑和其他地方的所有文艺演出等大型活动都已被取消，或将在没有观众的情况下举行。</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="周三，印度班加罗尔火车站外面的旅客。" data-src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing8/merlin_170335332_b9291e49-73de-4284-8da4-7374d32cb43d-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/world/11virus-briefing8/merlin_170335332_b9291e49-73de-4284-8da4-7374d32cb43d-master1050.jpg"/></div><figcaption><span>周三，印度班加罗尔火车站外面的旅客。</span> <cite>Aijaz Rahi/Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>印度宣布关闭边境，暂停颁发签证</b></div>
+<div class="article-paragraph">印度政府周三采取行动关闭了该国的边境，几乎暂停了进入该国的所有签证，直到4月15日。</div>
+<div class="article-paragraph">这是目前各国政府中采取的最强有力的国际旅行限制措施之一。本周，以色列称将要求所有从入境者进行14天的隔离。危地马拉周三表示，将从周四起禁止欧洲、中国、伊朗、韩国和朝鲜公民入境。俄罗斯暂停大多数飞往意大利、德国、西班牙和法国的定期航班，并停飞往返中国的航班。从周五开始，将停止对意大利公民签发旅游签证。</div>
+<div class="article-paragraph">印度关闭边境的决定是在该国确诊病例数上升至60例时作出的。根据新规定，针对游客和商务旅客的签证将暂停至4月15日。此外，超过300万持有特殊终身签证的外国人要到4月15日后才能入境。新规定不适用于外交官、在联合国等国际组织工作的人，以及持有现有工作签证的外国劳工。</div>
+<div class="article-paragraph">该国还宣布对所有来自中国、意大利、伊朗、韩国、法国、西班牙和德国的旅客（包括印度公民）强制隔离14天。政府劝阻该国民众停止非必要的出国旅行，警告称，他们可能会在回国时被隔离。</div>
+<div class="article-paragraph"><figure class="article-inline-photo"><div class="img-box"><img alt="" data-src="https://static01.nyt.com/images/2020/03/11/business/11roose/11roose-master1050.jpg" src="https://static01.nyt.com/images/2020/03/11/business/11roose/11roose-master1050.jpg"/></div><figcaption><span></span> <cite>Julian Glander</cite></figcaption></figure></div>
+<div class="article-paragraph"><b>更多消息</b></div>
+<div class="article-paragraph">• 中国新增病例数持续下降。据<a href="http://www.nhc.gov.cn/xcs/yqfkdt/202003/37c1536b6655473f8c2120ebdc475731.shtml" rel="noopener noreferrer" target="_blank">中国卫健委</a>，周三，该国报告新增确诊病例15例，其中八例来自武汉，六例为境外输入。新增死亡病例11例，其中湖北10例（武汉七例），陕西一例。截至目前，中国累计确诊病例为80793例，3169人死亡。</div>
+<div class="article-paragraph"><b>• 在家办公没有你想象的那么好。</b>研究表明，虽然远程工作者效率更高，但他们也错失了创造力和创新思维这些难以衡量的收益。大多数人应该在办公室或在其他人周围工作，并尽量避免独自在家工作。欢迎阅读<a href="https://cn.nytimes.com/technology/20200311/working-from-home/">本文中文版</a>。</div>
+<div class="article-paragraph"><b>• 《纽约时报》对新冠病毒报道移除付费墙</b>，欢迎查看时报关于本次疫情的<a href="https://www.nytimes.com/news-event/coronavirus?action=click&amp;module=Spotlight&amp;pgtype=Homepage">详细报道</a>。</div>
+<div class="article-paragraph"><i>感谢阅读今天的新冠病毒疫情简报</i><i>，新读者请</i><i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank">点击此处订阅</a>。点击<a href="https://cn.nytimes.com/morning-brief/">这里</a>查看往日更新</i><i>。</i><i>欢迎在Twitter(</i><a href="https://twitter.com/nytchinese" rel="noopener noreferrer" target="_blank"><i>@nytchinese</i></a><i>)、</i><a href="https://www.instagram.com/cn.nytimes/?hl=zh-tw" rel="noopener noreferrer" target="_blank"><i>Instagram</i></a><i>和</i><a href="https://www.facebook.com/nytimeschinese.t/" rel="noopener noreferrer" target="_blank"><i>Facebook</i></a><i>上关注我们，了解更多中文资讯。也欢迎访问中文网</i><a href="https://cn.nytimes.com/"><i>首页</i></a><i>阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。</i></div>
+*
+面对病毒和禁足，我们该离开中国吗？
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠肺炎疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">上海——距离武汉这座拥有1100万人口的城市被封锁已经过去了两周，在此期间，我和我的丈夫在500多英里外的上海公寓里，也同样按照当局要求闭门不出。<br/></div>
+<div class="article-paragraph">随着禁闭的日子缓慢消磨，我们不再换下睡衣，每一天的界限也不再分明。每天早上，我一睁眼就会拿起床边桌上的手机，仔细阅读最新消息、新的死亡人数、新的确诊病例、遏制冠状病毒蔓延的新措施，还有新的猜测。但一切都感觉离我在23楼的公寓很遥远。在窗户和墙壁之内，我们生活在自己的小世界里。</div>
+<div class="article-paragraph">我们就像舒适温室里的水培植物，靠输送的营养生长脂肪。每天，外卖员开着电动车送来外卖、杂货和水。每当我戴上口罩走出公寓大门，乘坐消毒剂味道强烈的电梯下楼，踏上去大堂拿货的冒险之旅，我都感觉自己很傻。我用钥匙的边缘按电梯按钮。这些预防措施就像是角色扮演，但我仍然在每次进门时尽责地洗手，低声哼着字母歌。</div>
+<div class="article-paragraph">“我们要不要离开？”丈夫已经向我提过好几次这个问题了，每次都很随意，声音平静，小心翼翼掩饰着自己的情绪。我们都是美国公民，所以我们随时可以选择离开。</div>
+<div class="article-paragraph"><span>我们谁都不想成为婚姻中危言耸听的那个人，尤其是<a href="https://www.nytimes.com/2020/01/26/world/china-coronavirus.html">当我们还年轻、健康、离危害如此之远的时候</a>。</span></div>
+<div class="article-paragraph">“不用。对我们来说没那么危险。”</div>
+<div class="article-paragraph">“也是。”</div>
+<div class="article-paragraph">“说真的，现在去旅行才吓人。现在去和一群陌生人挤在一起13个小时似乎是个糟糕的主意。”</div>
+<div class="article-paragraph">“嗯。”</div>
+<div class="article-paragraph">“再说，上海的情况很好。杂货店里商品充足，我们点的所有东西都能顺利送达，医院里也不拥挤。”</div>
+<div class="article-paragraph">“对。”</div>
+<div class="article-paragraph">“我们没事。我们是安全的。”</div>
+<div class="article-paragraph">我知道，我如此渴望留下是不完全合乎逻辑的。我们的家人和朋友都很担心，催促我们趁现在还有机会赶紧回美国，与这场蔓延的疫情相隔一片大洋才好。但我一直在想，当湖北省（武汉是其省会）的人们正面临医院人满为患、物资供应短缺、被驱赶和粗暴对待的时候；医务人员正冒着生命危险上前线的时候，我们有资格考虑逃离吗？在舒适的家里禁足几个星期真的是逃跑的好理由吗？</div>
+<div class="article-paragraph">即使上海的情况可能变得没那么舒适，我们也并非束手无策。我们有几盒口罩、几桶饮用水、土豆和卷心菜、方便面、麦片和几块冷冻牛排。如果你认为这听起来像是城市老鼠的肤浅逻辑，你是对的。如果情况真的变糟，我并不知道该如何处理。</div>
+<div class="article-paragraph">仔细想想，我对这种新的致命疾病如此不当回事是说不通的，尤其是考虑到中国政府的过往记录，我对它几乎没有什么信任。</div>
+<div class="article-paragraph">也许我根本就没有那么冷静。当我剥开内疚的外壳，就看到了暗处酝酿着的焦虑。和中国其他所有人一样，我对正在发生的事情没有多少具体概念，我完全听任中国政府的摆布，不知它会如何选择。但我们平民并不清楚全部的真相，哪怕真相是政府所要求的信任的重要部分。</div>
+<div class="article-paragraph">在疫情暴发之初，当地媒体曾有几天时间进行了<span>严肃报道，但随后，<a href="https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html">政府宣传机器半路杀出</a>，以宣传正能量和维持秩序的名义限制公众所能了解的信息。这不是什么新鲜事。在中国，人人都知道不要轻信共产党的喉舌，但当14亿人的生命危在旦夕，我们还可能接受半真半假的信息吗？</span></div>
+<div class="article-paragraph">此刻，我也感受到了其他所有中国人感受到的那种对死亡的原始恐惧，它让我们麻痹。我曾一度说服自己一切都会好起来，但这种幻觉迟早会被什么东西打破。</div>
+<div class="article-paragraph">昨天，我在社交媒体上看到，有人发现自1月30日以来，官方统计的死亡人数与确诊人数的比例每天都保持在2.1%。“神奇的病毒，还是个数学高手！”</div>
+<div class="article-paragraph">盯着这些数字，我感觉我的脸在扭曲。我忘记了，每一条新闻都必须加以审查，用来巩固政权的统治。即使在生死攸关的时刻，我仍不能免于这种令人筋疲力竭的活动，党永远都要赢。</div>
+<div class="article-paragraph">它就像伤口一样刺痛，而这种疼痛让我清醒。</div>
+<div class="article-paragraph">当千百万生命危在旦夕时，我非常希望能相信中国政府。我想要相信其决策是为了拯救最多的人。我想要相信实施世界上规模最大的隔离——实际上牺牲了一个有5800万人口的省——是为了更多人的利益。我想要相信每一个极端措施都会有回报，而不只是美化了的公关噱头。</div>
+<div class="article-paragraph">我害怕这种惊惧。我不想面对事情可能变得多么糟糕，如果基础设施停止平稳运行，我们小小的舒适家庭禁足生活将会多么快地崩塌。坐以待毙的人即便养尊处优也还是坐以待毙，而我已经不再幻想这一切能善终了。</div>
+*
+特朗普的切尔诺贝利时刻
+<div class="article-paragraph"><i>[欢迎</i><a href="https://sso.nytcn.me/email/?source=top-right" rel="noopener noreferrer" target="_blank"><i>点击此处</i></a><i>订阅</i><a href="https://cn.nytimes.com/morning-brief/"><i>新冠病毒疫情每日中文简报</i></a><i>，或发送邮件至cn.letters@nytimes.com加入订阅。]</i></div>
+<div class="article-paragraph">病毒在如此明媚的春日中蔓延，实在让人难以接受。水仙花和樱花的盛开宣告着复兴与希望；清爽的空气怎么都看不出有什么危险。</div>
+<div class="article-paragraph">可我们还是行走在恐惧之中。我们一遍遍地擦洗自己，以抵御隐形的攻击者；我们想知道在哪里藏身，怎么逃脱。我们用什么保护我们的孩子们？我们是否应该囤积食物和厕纸？政府只是一味发出抚慰的声音，并把罪责推给别的地方，我们能否相信它？</div>
+<div class="article-paragraph">那是1986年的春天，我作为《纽约时报》莫斯科分社社长，正和家人住在那里。自从4月26日切尔诺贝利核电站反应堆爆炸并将放射性物质喷涌到广阔地区以来，我们一直在与未知搏斗——作为记者，我们要在宣传材料中分辨事实；作为个人，我们试图应对藏在风中的无声威胁。</div>
+<div class="article-paragraph">当然，今天的威胁有所不同。放射性物质不同于病原体。冠状病毒可以用喷气客机的速度在大陆之间传播，在人与人的接触中不知不觉地传播；燃烧的切尔诺贝利核电站产生的放射性坠尘仅能到达风吹到的地方，而保持社交距离对于其辐射性毫无用处。</div>
+<div class="article-paragraph">尽管如此，这些灾难仍有共同的影响。在看不见的敌人面前，我们产生了一种可怕的脆弱感；担心它可能已经侵入；或是意识到我们的科学来不及应对，而我们的政治领导人优先考虑的事项和我们的不一样。</div>
+<div class="article-paragraph">切尔诺贝利迎来了苏联历史上的一个关键时刻，仅在一年前，米哈伊尔·戈尔巴乔夫(Mikhail Gorbachev)上台，承诺通过开放和重组来改革迟钝低效的警察国家。然而，当乌克兰的一座反应堆爆炸并开始喷出致命的辐射时，苏联系统迅速回到了老习惯，选择利己的谎言、操纵信息和保密。</div>
+<div class="article-paragraph">几个小时后，克林姆林宫才只是承认发生了一个事故，在此之前，斯堪的那维亚部分地区的官员早已开始报告辐射危险的增长。第一个官方公报仍然是极权主义轻描淡写的经典之作：“切尔诺贝利核电站发生事故，因为其中一个反应堆损坏。正在采取措施消除事故后果。正在向受影响的人提供援助。已经成立了政府委员会。”</div>
+<div class="article-paragraph"><figure class="article-inline-photo large"><div class="img-box"><img alt="1986年4月，发生爆炸几天后的切尔诺贝利核电站。" data-src="https://static01.nyt.com/images/2020/03/14/opinion/14serge-chernobyl-1/14serge-chernobyl-1-master1050.jpg" src="https://static01.nyt.com/images/2020/03/14/opinion/14serge-chernobyl-1/14serge-chernobyl-1-master1050.jpg"/></div><figcaption><span>1986年4月，发生爆炸几天后的切尔诺贝利核电站。</span> <cite>Associated Press</cite></figcaption></figure></div>
+<div class="article-paragraph">人们很清楚要从字里行间解读：“委员会”、“仍在采取措施”和简短的措辞传达的都是灾难。人们知道自己的生命处于危险之中，这种恐惧超越了国家掌权所依靠的恐惧。宣传机器对叙事失去了控制，并且发现自己不得不一点一点地透露事实和警告，尽管责备西方的老习惯仍然存在——直到今天也是——宣称美国人和西欧人正在利用切尔诺贝利破坏苏联的信誉并挑起“仇恨运动”。到戈尔巴乔夫公开承认灾难发生，几周时间已经过去了。</div>
+<div class="article-paragraph">中国的威权政府对冠状病毒最初在武汉的传播的反应，与克林姆林宫有许多相似之处。但是北京对于信息控制的能力远远弱于数字时代以前的苏联。在早期警告人们注意疫情暴发、后来因该疾病去世的李文亮医生被官方指责“严重扰乱社会秩序”，政府后来对他的公开赞颂结果只能证明控制坏消息的企图是徒劳的——并且还是危险的，因为如果更快地听取李文亮的警告，人们也许可以更早地对病毒做出更好的遏制。</div>
+<div class="article-paragraph">比中国的努力还要徒劳得多的，是特朗普政府为了不危及他的连任而去淡化一场疾病的大流行，因为当他指责这种疾病是他们——强健的新闻媒体，强大的医疗机构、地方政府和独立的立法者——的“新骗局”时，他们并没有被吓到。被疫情威胁的美国人，就像1986年的苏联人和2020年的中国人，在生命受到威胁的时候，不会被欺骗太久。</div>
+<div class="article-paragraph">尽管如此，令人沮丧的是，就在他的否认没有产生任何效果之后，他开始承认冠状病毒的严重性，但连这场重要的讲话都包含了错误信息，例如他声称抗病毒疗法即将面世。当然，他也曾经尝试将病毒描述为外国人对美国人施加的伤害。</div>
+<div class="article-paragraph">在苏联，对于一个已经苟延残喘的政体，切尔诺贝利被证明是一个加速其灭亡的重大时刻。对冠状病毒的应对也会有清算的时候，这场大流行必定会在世界上包括我们国家在内的诸多疫区留下深刻的烙印。</div>
+<div class="article-paragraph">在1986年，这样的分析都是在危险消退后开始的。紧接着灾难发生的是更加紧急的问题，就像早春的这几天。我敢坐地铁吗？如果我们隔离在家，该怎么获得食物？我的遗嘱需要更新吗？我们被告知了真相吗？</div>
+*
