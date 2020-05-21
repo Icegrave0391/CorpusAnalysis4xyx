@@ -2,7 +2,12 @@
 import re
 import os
 import jieba
+from pprint import pprint
+import logging
+from gensim.summarization import summarize
+from gensim.summarization import keywords
 
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 pardir = os.path.abspath(os.path.join(os.path.dirname('CorpusTool.py'), os.path.pardir)) + '/'
 stopwordPath_default = pardir + 'stopwords.txt'
 rawPrefix_default = pardir + 'crawl_files/'
@@ -61,9 +66,12 @@ class CorpusTool(object):
     def CorpusProcess(self):
         """
         Generating all corpus to file paths: 'self.params['outPrefix']/'
+
+        Output: list of corpus
         """
         # get stopwords
         stopwords = self.params['stopwords']
+        res_corplist = []
         for i, datastr in enumerate(self.params['datalist']):
             num_pages = self.params['pglist'][i]
             srcpathprefix = self.params['rawPrefix'] + datastr + '/'
@@ -71,6 +79,7 @@ class CorpusTool(object):
             dstpath = self.params['outPrefix'] + datastr + '.txt'
             fout = open(dstpath, 'w')
             # handle data per page
+            news_list = []
             for j in range(num_pages):
                 # current a piece of news corpus & lines per page
                 curpg_corpus = []
@@ -84,6 +93,8 @@ class CorpusTool(object):
                     if line == '*\n':
                         # print('++++++++++++news end final lines: ', j+1 ,curnews_lines)
                         corp_news_txt = [word for word in curnews_lines if word not in stopwords]
+                        if j == 0: # 1st piece for log
+                            news_list.append(corp_news_txt)
                         curpg_corpus.append(corp_news_txt)
                         # reset curnews_lines
                         curnews_lines = []
@@ -101,9 +112,56 @@ class CorpusTool(object):
                 # file: per line -> per news corpus
                 fout.write('\n'.join(pgcorpus_onelist))
                 fout.write('\n')
+            res_corplist.append(news_list)
+        return res_corplist
+
+    def diaryProcess(self):
+        doc = []
+        diarycorpus = []
+        fpath = pardir + 'fangfangdiary.txt'
+        fin = open(fpath, 'r', encoding='utf-8')
+        pattern = re.compile(r'[^\u4e00-\u9fa5]')
+        lines = fin.readlines()
+        for line in lines:
+            # end of a diary
+            if '*' in line:
+                doc.append('')
+                diarycorpus.append('。. '.join(doc))
+                doc = []  # reset
+                continue
+            sentences = re.split('。|；|？|!', line[:-1])
+            tmp = re.sub(pattern, '', line)
+            if len(tmp) == 0:
+                continue
+            for sentence in sentences:
+                res = ' '.join(jieba.cut(sentence.strip()))
+                if len(res) > 0:
+                    doc.append(res)
+        diarycorpus.reverse()
+        fout = open(pardir + 'diaryabstract.txt', 'w', encoding='utf-8')
+        fout.write('>>>>>>>>> Fang Fang\'s Diary: Abstract <<<<<<<<<\n')
+        totaldoc = ''
+        for i in range(60):
+            totaldoc += diarycorpus[i]
+        # total abstract
+        abstext = summarize(totaldoc, ratio=0.02).replace(' ', '').replace('.', '')
+        fout.write(''.join(abstext.split('\n')))
+        fout.write('\n\n>>>>>>>>>KEYWORDS<<<<<<<<<\n')
+        # keywords
+        key = keywords(totaldoc)
+        fout.write(' '.join(key.split('\n')))
+        # chapter abstract
+        fout.write('\n\n>>>>>>>>>Chapter Abstract<<<<<<<<<\n')
+        for i in range(60):
+            ratio = 500/len(diarycorpus[i])
+            text = summarize(diarycorpus[i], ratio=ratio).replace(' ', '').replace('.', '')
+            fout.write(str(i+1) + '\n')
+            fout.write(text + '\n\n')
+        return ''.join(abstext.split('\n')), ' '.join(key.split('\n'))
 
 
 
 if __name__ == '__main__':
     tool = CorpusTool()
-    tool.CorpusProcess()
+    # tool.CorpusProcess()
+    tool.diaryProcess()

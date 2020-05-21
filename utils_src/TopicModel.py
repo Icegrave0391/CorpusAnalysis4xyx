@@ -8,9 +8,13 @@ from collections import defaultdict
 from gensim import similarities
 from gensim.test.utils import datapath
 import pyLDAvis.gensim
-
+# set up
+logging.basicConfig(filename='gensim.log',
+                    format="%(asctime)s:%(levelname)s:%(message)s",
+                    level=logging.INFO)
 pardir = os.path.abspath(os.path.join(os.path.dirname('CorpusTool.py'), os.path.pardir)) + '/'
 corpPrefix_default = pardir + 'corpus_files/'
+
 class TopicAnalysisModel(object):
     """
     Tool for corpus analysis
@@ -33,7 +37,7 @@ class TopicAnalysisModel(object):
         glbcorpus = []
         glbwords = 0
         glbarticles = 0
-        print(">>> [file process] Start processing corpus files")
+        print(">>> Start processing corpus files")
         for i in range(len(self.params['corplist'])):
             fpath = self.params['corpPrefix'] + self.params['corplist'][i] + '.txt'
             fin = open(fpath, 'r')
@@ -47,7 +51,6 @@ class TopicAnalysisModel(object):
             glbarticles += len(lines)
             glbwords += sum([len(line.split(' ')) for line in lines])
             glbcorpus += [line[:-1] for line in lines]
-        print(glbcorpus[0])
         print('newssizelist:' ,self.params['newssizelist'])
         #print([document.split(' ') for document in glbcorpus])
         self.glbcorpus = [document.split(' ') for document in glbcorpus]
