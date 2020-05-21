@@ -98,6 +98,7 @@ class CorpusTool(object):
                         curnews_lines += curline
                 # print('========Page corpus:', curpg_corpus)
                 pgcorpus_onelist = [' '.join(c) for c in curpg_corpus]
+                # file: per line -> per news corpus
                 fout.write('\n'.join(pgcorpus_onelist))
                 fout.write('\n')
 
