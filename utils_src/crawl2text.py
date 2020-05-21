@@ -22,25 +22,15 @@ class Tool:
 
 tool = Tool()
 
-def save():
-    fin = open('./BBC/BBCPage1.txt', "r", encoding='utf-8')
-    lines = fin.readlines()
-    for line in lines:
-        if(line != '*\n'):
-            line = tool.replace(line)
-            print(line)
-        else:
-            print("--------NEXT----------")
-
 # main()
 if __name__ == "__main__":
     # path prefix
-    pardir = os.path.abspath(os.path.join(os.path.dirname('test.py'), os.path.pardir)) + '/'
+    pardir = os.path.abspath(os.path.join(os.path.dirname('crwal2text.py'), os.path.pardir)) + '/'
     src_prefix = pardir + 'crawl_files/'
     dst_prefix = pardir + 'crawl2raw_files/'
     file_suffix = '.txt'
-    src_list = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews']
-    src_pages = [19, 22, 1, 30, 56, 27, 30]
+    src_list = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews', 'CNR']
+    src_pages =[ 19  ,      22     ,  1  ,    30    ,  56  ,    27   ,      30      ,  426 ]
     for i, srcname in enumerate(src_list):
         num_pages = src_pages[i]
         print(num_pages)

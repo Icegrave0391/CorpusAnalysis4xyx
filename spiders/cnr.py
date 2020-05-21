@@ -3,10 +3,10 @@ import time
 from bs4 import BeautifulSoup
 
 overFlag = False
-page = 1
+page = 206
 
 # while True:
-while page < 427:
+while page < 400:
     fout = open('CNRPage'+str(page)+'.txt', 'w', encoding='utf-8')
     targetUrl = 'http://was.cnr.cn/was5/web/search'
     header = {
@@ -37,19 +37,21 @@ while page < 427:
         try:
             link = each['href']
             print(link)
-            title = each.string
-            print(title)
+            # title = each.string
+            # print(title)
             req = requests.get(url=link)
             req.encoding = 'gbk'
             # print(req.text)
             soup = BeautifulSoup(req.text, 'lxml')
+            title = soup.find('div', class_='article-header').find('h1')
+            title = title.string
+            print(title)
             date = soup.find('div', class_='source').find('span')
             date = date.string
             print(date)
             year = int(date[:4])
             month = int(date[5:7])
             day = int(date[8:date.find(' ')])
-            print(year, month, day)
             if (year < 2020) or (month < 1) or (month == 1 and day < 25):
                 print("out of date")
                 continue
