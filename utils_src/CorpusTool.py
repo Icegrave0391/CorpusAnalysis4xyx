@@ -24,8 +24,8 @@ class CorpusTool(object):
         self.params['stopwords'] = [word[:-1] for word in fstopword.readlines()]
         self.params['rawPrefix'] = rawPrefix
         self.params['outPrefix'] = outPrefix
-        self.params['datalist'] = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews', 'CNR']
-        self.params['pglist'] =   [19   ,      22     ,   1 ,     30   ,  56  ,    27   ,      30      ,  426]
+        self.params['datalist'] = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews', 'CNR', 'fangfang' ]
+        self.params['pglist'] =   [19   ,      22     ,   1 ,     30   ,  56  ,    27   ,      30      ,  426 ,      1     ]
         # jieba -- addwords
         jieba.add_word("新冠肺炎")
         jieba.add_word("冠性肺炎")
@@ -163,5 +163,5 @@ class CorpusTool(object):
 
 if __name__ == '__main__':
     tool = CorpusTool()
-    # tool.CorpusProcess()
+    tool.CorpusProcess()
     tool.diaryProcess()

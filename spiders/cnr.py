@@ -3,10 +3,10 @@ import time
 from bs4 import BeautifulSoup
 
 overFlag = False
-page = 206
+page = 1
 
 # while True:
-while page < 400:
+while page < 427:
     fout = open('CNRPage'+str(page)+'.txt', 'w', encoding='utf-8')
     targetUrl = 'http://was.cnr.cn/was5/web/search'
     header = {
