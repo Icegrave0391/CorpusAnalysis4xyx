@@ -16,12 +16,12 @@ pardir = os.path.abspath(os.path.join(os.path.dirname('CorpusTool.py'), os.path.
 corpPrefix_default = pardir + 'corpus_files/'
 
 glbpath = 'ldamodel_all'   # total model
-grp_paths = ['ldamodel_0', 'ldamodel_1', 'ldamodel_2', 'ldamodel_3']
+grp_paths = ['ldamodel_0', 'ldamodel_1', 'ldamodel_2', 'ldamodel_3', 'ldamodel_4']
 grppath_0 = 'ldamodel_0'   # western  [BBC, DW, NTY, sputiknews]
 grppath_1 = 'ldamodel_1'   # official [renmin, cnr, huanqiu]
 grppath_2 = 'ldamodel_2'   # chinadaily
 grppath_3 = 'ldamodel_3'   # fangfang diary
-
+grppath_4 = 'ldamodel_4'   # chinese
 
 class TopicAnalysisModel(object):
     """
@@ -38,9 +38,9 @@ class TopicAnalysisModel(object):
         self.corpdict = None
         self.bowcorpus = None
         # for groups
-        self.grp_corpus = [[], [], [], []]
-        self.grp_corpdict = [[], [], [], []]
-        self.grp_bowcorpus = [[], [], [], []]
+        self.grp_corpus = [[], [], [], [], []]
+        self.grp_corpdict = [[], [], [], [], []]
+        self.grp_bowcorpus = [[], [], [], [], []]
 
     def read_corpus(self, diary=False):
         """
@@ -49,7 +49,7 @@ class TopicAnalysisModel(object):
         """
         if diary == False:
             glbcorpus = []
-            grpcorpus = [[],[],[],[]]
+            grpcorpus = [[],[],[],[],[]]
             glbwords = 0
             glbarticles = 0
             print(">>> Start processing corpus files")
@@ -73,10 +73,13 @@ class TopicAnalysisModel(object):
                     grpcorpus[1] += [line[:-1] for line in lines]
                 if i in [1]:
                     grpcorpus[2] += [line[:-1] for line in lines]
+                if i in [1, 3, 5, 7]:
+                    grpcorpus[4] += [line[:-1] for line in lines]
             print('newssizelist:' ,self.params['newssizelist'])
             self.glbcorpus = [document.split(' ') for document in glbcorpus]
-            for i in range(3):
-                self.grp_corpus[i] = [document.split(' ') for document in grpcorpus[i]]
+            for i in range(len(grp_paths)):
+                if i != 3:
+                    self.grp_corpus[i] = [document.split(' ') for document in grpcorpus[i]]
             return glbarticles, glbwords
         else:
             diarycorpus = []
@@ -105,7 +108,7 @@ class TopicAnalysisModel(object):
         self.bowcorpus = [self.corpdict.doc2bow(doc) for doc in corpus]
         print('Number of unique tokens %d' % len(self.corpdict))
         print('Number of documents %d' % len(self.bowcorpus))
-        for i in range(4):
+        for i in range(len(grp_paths)):
             dict = corpora.Dictionary(self.grp_corpus[i])
             self.grp_corpdict[i] = dict
             self.grp_corpdict[i].filter_extremes(no_below=20, no_above=0.5)
@@ -153,7 +156,7 @@ class TopicAnalysisModel(object):
         pyLDAvis.save_html(vis, glbpath + '.html')
 
         if train_grp == True:
-            for i in range(4):
+            for i in range(len(grp_paths)):
                 corpdictionary = self.grp_corpdict[i]
                 temp = corpdictionary[0]  # only to load dictionary
                 id2word = corpdictionary.id2token
