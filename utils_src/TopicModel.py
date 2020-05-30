@@ -2,6 +2,7 @@ import pprint
 import logging
 import os
 import collections
+from enum import Enum, unique
 from gensim import models
 from gensim import corpora
 from collections import defaultdict
@@ -9,6 +10,13 @@ from gensim import similarities
 from gensim.test.utils import datapath
 import pyLDAvis.gensim
 # set up
+@unique
+class CorpList(Enum):
+    Fangfang = 0
+    Western = 1
+    Chinese = 2
+    AllNews = 3
+
 logging.basicConfig(filename='gensim.log',
                     format="%(asctime)s:%(levelname)s:%(message)s",
                     level=logging.INFO)
@@ -31,13 +39,18 @@ class TopicAnalysisModel(object):
         self.params = {}
         self.params['corpPrefix'] = corpPrefix
         self.params['corplist'] = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews', 'CNR']
-        self.params['pglist'] =   [  19 ,      22     ,   1 ,     30   ,   56 ,    27   ,      30      ,  426 ]
+        self.params['pglist'] =   [  19 ,      22     ,   1 ,     30   ,   56 ,    27   ,      30      ,  50 ]
         self.params['newssizelist'] = [] # definited by reading process
         # for global one
         self.glbcorpus = None
         self.corpdict = None
         self.bowcorpus = None
+        self.num_topics = 5
         # for groups
+        self.wstn_list = ['BBC', 'DW', 'NTY', 'sputiknews']
+        self.wstn_sizes = []
+        self.chn_list = ['chinadaily', 'huanqiu', 'renmin', 'CNR']
+        self.chn_sizes = []
         self.grp_corpus = [[], [], [], [], []]
         self.grp_corpdict = [[], [], [], [], []]
         self.grp_bowcorpus = [[], [], [], [], []]
@@ -69,12 +82,14 @@ class TopicAnalysisModel(object):
                 # set group corpus
                 if i in [0, 2, 4, 6]:
                     grpcorpus[0] += [line[:-1] for line in lines]
+                    self.wstn_sizes.append(len(lines))
                 if i in [3, 5, 7]:
                     grpcorpus[1] += [line[:-1] for line in lines]
                 if i in [1]:
                     grpcorpus[2] += [line[:-1] for line in lines]
                 if i in [1, 3, 5, 7]:
                     grpcorpus[4] += [line[:-1] for line in lines]
+                    self.chn_sizes.append(len(lines))
             print('newssizelist:' ,self.params['newssizelist'])
             self.glbcorpus = [document.split(' ') for document in glbcorpus]
             for i in range(len(grp_paths)):
@@ -114,17 +129,14 @@ class TopicAnalysisModel(object):
             self.grp_corpdict[i].filter_extremes(no_below=20, no_above=0.5)
             self.grp_bowcorpus[i] = [self.grp_corpdict[i].doc2bow(doc) for doc in self.grp_corpus[i]]
 
-
-
-
-    def LDA(self, corpdictionary=None, bowcorpus=None, num_topics=5, random_state=100, iterations=400, passes=20, alpha='auto', eta='auto',
+    def LDA(self, corpdictionary=None, bowcorpus=None, num_topics=6, random_state=100, iterations=400, passes=20, alpha='auto', eta='auto',
             train_grp = True):
         if corpdictionary == None:
             corpdictionary = self.corpdict
         if bowcorpus == None:
             bowcorpus = self.bowcorpus
         # print('dic:', corpdictionary)
-        temp = corpdictionary[0] # only to load dictionary
+        temp = corpdictionary[0] # only to load dictionary≥
         id2word = corpdictionary.id2token
         print('tokens:', id2word)
         chunksize = len(bowcorpus)
@@ -142,8 +154,10 @@ class TopicAnalysisModel(object):
             eta=eta
         )
         print('########## Result global###########')
-        temp_file = datapath('lda_all_model')
+        temp_file = datapath('glbLDAmodel')
+        print('save model', temp_file)
         LDAModel.save(temp_file)
+        print('save completed')
         LDAModel.print_topics()
         top_topics = LDAModel.top_topics(bowcorpus)  # , num_words=20)
 
@@ -175,7 +189,7 @@ class TopicAnalysisModel(object):
                     eta=eta
                 )
                 print('################Result group:', i+1)
-                temp_file = datapath('lda_' + str(i) + '_model')
+                temp_file = datapath('LDA' + str(i) + 'model')
                 LDAModel.save(temp_file)
                 LDAModel.print_topics()
                 top_topics = LDAModel.top_topics(bowcorpus)  # , num_words=20)
@@ -187,12 +201,58 @@ class TopicAnalysisModel(object):
                 vis = pyLDAvis.gensim.prepare(LDAModel, bowcorpus, corpdictionary)
                 pyLDAvis.save_html(vis, grp_paths[i] + '.html')
 
-
-
+# case 0: all  1: western   2:china    3:fangfang
+    def compare_data(self, model, case):
+            corplist = []
+            sizelist = []
+            if case == 0:
+                corplist = self.params['corplist']
+                sizelist = self.params['newssizelist']
+                # bowcorpus = self.bowcorpus
+            elif case == 1:
+                # corplist = self.wstn_list
+                corplist = ['western']
+                sizelist = [sum(self.wstn_sizes)]
+                # bowcorpus = self.grp_bowcorpus[0]
+            elif case == 2:
+                # corplist = self.chn_list
+                corplist = ['chinese']
+                sizelist = [sum(self.chn_sizes)]
+                # bowcorpus = self.grp_bowcorpus[4]
+            elif case == 3:
+                corplist = ['fangfang']
+                sizelist = [60]
+            papers = dict()
+            if case == 0:
+                st, ed = 0, 0
+                for index, paper in enumerate(corplist):
+                    ed += sizelist[index]
+                    papers[paper] = self.bowcorpus[st:ed]
+                    st = ed
+            elif case == 1:
+                papers['western'] = [self.corpdict.doc2bow(doc) for doc in self.grp_corpus[0]]
+            elif case == 2:
+                papers['chinese'] = [self.corpdict.doc2bow(doc) for doc in self.grp_corpus[4]]
+            elif case == 3:
+                papers['fangfang'] = [self.corpdict.doc2bow(doc) for doc in self.grp_corpus[3]]
+                # result = model.top_topics(bowCorpus)
+                # pprint.pprint(result)
+            res = []
+            print('corplist: ', corplist)
+            for index, paper in enumerate(corplist):
+                topicsSum = [0.0 for i in range(self.num_topics)]
+                for result in model.get_document_topics(papers[paper]):
+                    for (topic, value) in result:
+                        topicsSum[topic] += value
+                avgTopics = [value/sizelist[index] for value in topicsSum]
+                res.append((paper, avgTopics))
+                    # print(paper, avgTopics)
+            return res
+                # pprint.pprint(result)
 
 if __name__ == '__main__':
     model = TopicAnalysisModel()
     model.read_corpus(diary=False)
     model.read_corpus(diary=True)
     model.corpus2bow()
-    model.LDA(train_grp=True)
+    model.LDA(train_grp=True, num_topics=model.num_topics)

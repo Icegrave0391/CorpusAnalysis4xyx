@@ -25,7 +25,7 @@ class CorpusTool(object):
         self.params['rawPrefix'] = rawPrefix
         self.params['outPrefix'] = outPrefix
         self.params['datalist'] = ['BBC', 'chinadaily', 'DW', 'huanqiu', 'NTY', 'renmin', 'sputniknews', 'CNR', 'fangfang' ]
-        self.params['pglist'] =   [19   ,      22     ,   1 ,     30   ,  56  ,    27   ,      30      ,  426 ,      1     ]
+        self.params['pglist'] =   [19   ,      22     ,   1 ,     30   ,  56  ,    27   ,      30      ,  50 ,      1     ]
         # jieba -- addwords
         jieba.add_word("新冠肺炎")
         jieba.add_word("冠性肺炎")
@@ -47,6 +47,15 @@ class CorpusTool(object):
         jieba.add_word("钻石公主号")
         jieba.add_word("华南海鲜市场")
         jieba.add_word("市长")
+        jieba.add_word("德国之声")
+        jieba.add_word("德国之声中文网")
+        jieba.add_word("环球网")
+        jieba.add_word("环球时报")
+        jieba.add_word("订阅")
+        jieba.add_word("央广网")
+        jieba.add_word("逆行者")
+        jieba.add_word("新冠状病毒")
+        jieba.add_word("中国日报网")
 
     def htmlProcess(self, word):
         """
@@ -57,7 +66,10 @@ class CorpusTool(object):
         pattern = re.compile(r'[^\u4e00-\u9fa5]')
         result = re.sub(pattern, '', word)
         result = result.replace('（欢迎点击此处订阅新冠病毒疫情中文简报。更多关于疫情的最新消息，欢迎关注时报英文版实时更新报道。）', '')
-        result = result.replace('[欢迎点击此处订阅新冠肺炎疫情每日中文简报，或发送邮件至cn.letters@nytimes.com加入订阅。]', '')
+        result = result.replace('[欢迎点击此处订阅新冠病毒疫情每日中文简报，或发送邮件至cn.letters@nytimes.com加入订阅。]', '')
+        result = result.replace(
+            "感谢阅读今天的新冠肺炎疫情简报，新读者请点击此处订阅。点击这里查看往日更新。欢迎在Twitter(@nytchinese)、Instagram和Facebook上关注我们，了解更多中文资讯。也欢迎访问中文网首页阅读更多新闻。如有任何建议和想法，请来信与我们分享：cn.letters@nytimes.com。", '')
+        result = result.replace('世卫', '世界卫生组织')
         #print('html process result:', result)
         if len(result):
             return ",".join(jieba.cut(result))
@@ -73,6 +85,8 @@ class CorpusTool(object):
         stopwords = self.params['stopwords']
         res_corplist = []
         for i, datastr in enumerate(self.params['datalist']):
+            if i != 4:
+                continue
             num_pages = self.params['pglist'][i]
             srcpathprefix = self.params['rawPrefix'] + datastr + '/'
             # handle output path
@@ -109,6 +123,33 @@ class CorpusTool(object):
                         curnews_lines += curline
                 # print('========Page corpus:', curpg_corpus)
                 pgcorpus_onelist = [' '.join(c) for c in curpg_corpus]
+                new_onelist = []
+                for s in pgcorpus_onelist:
+                    s = s.replace(' 点击 此处 发送 邮件 中文 简报', '')
+                    s = s.replace(' 点击 此处 新冠 病毒 疫情 每日 中文 简报 发送 邮件', '')
+                    s = s.replace(
+                        ' 点击 此处 新冠 病毒 疫情 中文 简报 疫情 最新消息 关注 时报 英文版 实时 更新 报道', '')
+                    s = s.replace(
+                        ' 感谢 阅读 武汉 疫情 简报 新 读者 请 点击 此处 关注 中文 资讯 访问 中文网 首页 阅读 新闻 本周 更新 安卓 系统 客户端 点击 此处 下载 建议 想法 请 来信 分享', '')
+                    s = s.replace(
+                        ' 感谢 阅读 新冠 病毒 疫情 简报 新 读者 请 点击 此处 点击 查看 往日 更新 关注 中文 资讯 访问 中文网 首页 阅读 新闻 建议 想法 请 来信 分享', '')
+                    s = s.replace(
+                        ' 感谢 阅读 新冠肺炎 疫情 简报 新 读者 请 点击 此处 点击 查看 往日 更新 关注 中文 资讯 访问 中文网 首页 阅读 新闻 建议 想法 请 来信 分享', '')
+                    s = s.replace(
+                        ' 感谢 阅读 武汉 疫情 简报 新 读者 请 点击 此处 点击 查看 往日 更新 关注 中文 资讯 访问 中文网 首页 阅读 新闻 建议 想法 请 来信 分享', '')
+                    s = s.replace(
+                        ' 感谢 阅读 武汉 疫情 简报 新 读者 请 点击 此处 点击 查看 往日 更新 关注 中文 资讯 访问 中文网 首页 阅读 新闻 本周 更新 安卓 系统 客户端 点击 此处 下载 建议 想法 请 来信 分享', '')
+                    s = s.replace(' 点击 此处 新冠肺炎 疫情 每日 中文 简报 发送 邮件', '')
+                    s = s.replace(' 点击 此处 阅读 本文 中文版', '')
+                    s = s.replace(
+                        ' 点击 此处 新冠肺炎 疫情 中文 简报 疫情 最新消息 关注 时报 英文版 实时 更新 报道', '')
+                    s = s.replace(' 阅读 这篇 中文 观点 文章', '')
+                    s = s.replace(' 阅读 中文版', '')
+                    s = s.replace(' 肺炎 疫情 每日 情况 更新', '')
+                    s = s.replace(' 更新 武汉 疫情 最新消息 关注 时报 实时 更新 报道', '')
+                    s = s.replace(' 更新 武汉 疫情 最新消息 关注 时报 英文版 实时 更新 报道', '')
+                    s = s.replace(' 更新 疫情 最新消息 关注 时报 英文版 实时 更新 报道', '')
+                    new_onelist.append(s)
                 # file: per line -> per news corpus
                 fout.write('\n'.join(pgcorpus_onelist))
                 fout.write('\n')
