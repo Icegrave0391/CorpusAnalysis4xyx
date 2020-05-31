@@ -20,9 +20,9 @@
 
 * 其中，在`res_files/`中：
 
-`ldamodel_all.html` 为所有新闻报社语料库生成的lda模型结果。
+**`ldamodel_all.html` 为所有新闻报社语料库生成的lda模型结果。**
 
-`ldamodel_0.html`为BBC, NTY, DW, sputniknews（西方媒体）所生成的lda模型结果。
+**`ldamodel_0.html`为BBC, NTY, DW, sputniknews（西方媒体）所生成的lda模型结果。**
 
 `ldamodel_1.html`为renmin, cnr, huanqiu（中国官媒）所生成的lda模型结果。
 
@@ -30,7 +30,11 @@
 
 `ldamodel_3.html`为《方方日记》所生成的lda模型结果。
 
-`display.html`为主控，描述分析关键流程。
+**`ldamodel_4.html`为renmin, cnr, huanqiu, chinadaily（中国媒体）所生成的lda模型结果。**
+
+`display.html`为主控，描述分析关键流程。**并且分析过程中所需的所有图表都包含在其中**。
+
+以下为简要分析过程（可以忽略）
 
 ## Text Analytics of "Fang Fang's Diary"
 
@@ -217,7 +221,12 @@ print('num topics:', modelTool.num_topics)
 
 ### LDA 模型结果分析
 
-此时，我们实际上在后台已经完成了一个所有新闻媒体LDA的模型。
+此时，我们实际上需要运行脚本：
+
+`python3 TopicModel.py` 
+
+这个脚本会进入较长时间的训练过程，训练所有LDA模型。待脚本运行完成之后，所有训练完的模型结果html会在`utils_src/`目录下（是的你没看错，在源码的当前路径下）。
+
 在本节，我们将将对各个新闻媒体进行LDA结果分析，并且将主题占比（所有新闻媒体的LDA模型的主题占比）进行可视化。
 
 
