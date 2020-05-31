@@ -2,39 +2,38 @@
 
 ### 文件结构
 
-`fangfangdiary.txt` 《方方日记》文本文件。
+- `fangfangdiary.txt` 《方方日记》原始文本文件。
 
-`diaryabstract.txt` 经过summarization之后的《方方日记》文件。
+- **`diaryabstract.txt` 经过textRank算法经过summarization之后的《方方日记》文件。**
+- `stopwords.txt`：停用词表（含中英文）。
 
-`spiders/` 内含所有爬虫源码`.py`的源文件。
+- `spiders/` 内含所有爬虫源码`.py`的源文件。
 
-`crawl_files/` 内含所有爬取的各报社/媒体新闻的html格式文本。
+- `crawl_files/` 内含所有爬取的各报社/媒体新闻的html格式文本。
 
-`crawl2raw_files/` 内含所有新闻html文本转换成纯文本后的文本文件。
+- `crawl2raw_files/` 内含所有新闻html文本转换成纯文本后的文本文件。
 
-`corpus_files/` 所有新闻的语料库文件。
+- `corpus_files/` 所有新闻生成的语料库文件。
 
-`utils_src/` 项目源码，包括语料库提取以及LDA模型。
+- `utils_src/` 项目源码，包括语料库提取以及LDA模型。
+  - `crawl2text.py`：用于处理爬虫爬取的所有新闻html并转换为纯文本，输出到`/crawl2raw_files`（需要首先运行sipders中所有爬虫文件）
+  - **`CorpusTool.py`**：用于生成语料库 & textrank进行summarize分析方方日记。
+  - **`TopicModel.py`**：用于LDA模型的生成以及语料库文本进一步分析对比。
+  - `display.ipynb`：用于展示流程，使用`jupyter-notebook`加载。
+  - `glbLDAmodel`：所有新闻语料库生成的LDA模型存储文件。
 
-`res_files/` LDA模型的输出结果。
+- `res_files/` LDA模型的输出结果。
+  - **`ldamodel_all.html` 为所有新闻报社语料库生成的lda模型结果。**
+  - **`ldamodel_0.html`为BBC, NTY, DW, sputniknews（西方媒体）所生成的lda模型结果。**
+  - `ldamodel_1.html`为renmin, cnr, huanqiu（中国官媒）所生成的lda模型结果。
+  - `ldamodel_2.html`为chinadaily（中国非官媒）所生成的lda模型结果。
+  - `ldamodel_3.html`为《方方日记》所生成的lda模型结果。
+  - **`ldamodel_4.html`为renmin, cnr, huanqiu, chinadaily（中国媒体）所生成的lda模型结果。**
+  - `display.html`为主控，描述分析关键流程。**并且分析过程中所需的所有图表都包含在其中**。
 
-* 其中，在`res_files/`中：
 
-**`ldamodel_all.html` 为所有新闻报社语料库生成的lda模型结果。**
 
-**`ldamodel_0.html`为BBC, NTY, DW, sputniknews（西方媒体）所生成的lda模型结果。**
-
-`ldamodel_1.html`为renmin, cnr, huanqiu（中国官媒）所生成的lda模型结果。
-
-`ldamodel_2.html`为chinadaily（中国非官媒）所生成的lda模型结果。
-
-`ldamodel_3.html`为《方方日记》所生成的lda模型结果。
-
-**`ldamodel_4.html`为renmin, cnr, huanqiu, chinadaily（中国媒体）所生成的lda模型结果。**
-
-`display.html`为主控，描述分析关键流程。**并且分析过程中所需的所有图表都包含在其中**。
-
-以下为简要分析过程（可以忽略）
+以下为简要分析过程（太长不看可以忽略）。
 
 ## Text Analytics of "Fang Fang's Diary"
 
