@@ -85,8 +85,6 @@ class CorpusTool(object):
         stopwords = self.params['stopwords']
         res_corplist = []
         for i, datastr in enumerate(self.params['datalist']):
-            if i != 4:
-                continue
             num_pages = self.params['pglist'][i]
             srcpathprefix = self.params['rawPrefix'] + datastr + '/'
             # handle output path

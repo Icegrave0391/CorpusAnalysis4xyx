@@ -508,7 +508,7 @@ v = joincorpus(corpus)
 freq_words(v)
 ```
 
-    Total news number:  55
+    Total news number:  60
 
 
 
